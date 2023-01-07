@@ -4,1155 +4,1155 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://www.jonathanmair.com/</loc>
-<lastmod>2023-01-07T23:44:02-00:00</lastmod>
+<loc>/</loc>
+<lastmod>2023-01-07T23:55:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tags.html</loc>
-<lastmod>2023-01-07T23:44:02-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2023-01-07T23:55:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/categories.html</loc>
-<lastmod>2023-01-07T23:44:02-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2023-01-07T23:55:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/authors.html</loc>
-<lastmod>2023-01-07T23:44:02-00:00</lastmod>
+<loc>/authors.html</loc>
+<lastmod>2023-01-07T23:55:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/pages/about/</loc>
-<lastmod>2023-01-07T23:44:02-00:00</lastmod>
+<loc>/pages/about/</loc>
+<lastmod>2023-01-07T23:55:02-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/pages/publications/</loc>
-<lastmod>2023-01-07T23:44:02-00:00</lastmod>
+<loc>/pages/publications/</loc>
+<lastmod>2023-01-07T23:55:02-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/post-truth-anthropology-published-in-anthropology-today.html</loc>
+<loc>/posts/post-truth-anthropology-published-in-anthropology-today.html</loc>
 <lastmod>2017-06-02T08:14:48+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/schumachers-buddhist-economics.html</loc>
+<loc>/posts/schumachers-buddhist-economics.html</loc>
 <lastmod>2016-04-04T23:56:37+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/needhams-review-of-paul-veynes-did-the-greeks-believe-in-their-myths.html</loc>
+<loc>/posts/needhams-review-of-paul-veynes-did-the-greeks-believe-in-their-myths.html</loc>
 <lastmod>2015-08-17T13:45:57+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/rodney-needham-and-paul-veyne-on-religious-belief.html</loc>
+<loc>/posts/rodney-needham-and-paul-veyne-on-religious-belief.html</loc>
 <lastmod>2015-08-17T13:30:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/the-meaning-and-end-of-religion.html</loc>
+<loc>/posts/the-meaning-and-end-of-religion.html</loc>
 <lastmod>2015-07-22T09:48:40+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/neoliberalism-as-conceptual-trash-heap.html</loc>
+<loc>/posts/neoliberalism-as-conceptual-trash-heap.html</loc>
 <lastmod>2015-07-06T09:31:19+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/announcing-ignorance-studies-listserv.html</loc>
+<loc>/posts/announcing-ignorance-studies-listserv.html</loc>
 <lastmod>2014-01-26T14:54:46+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/speaking-ethically-across-borders-conference-registration-open.html</loc>
+<loc>/posts/speaking-ethically-across-borders-conference-registration-open.html</loc>
 <lastmod>2013-12-11T21:54:28+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/abby-days-believing-in-belonging-review.html</loc>
+<loc>/posts/abby-days-believing-in-belonging-review.html</loc>
 <lastmod>2013-06-30T15:16:07+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/cultures-of-belief-post-print-version-of-article.html</loc>
+<loc>/posts/cultures-of-belief-post-print-version-of-article.html</loc>
 <lastmod>2013-04-10T16:42:23+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/cultures-of-belief-new-paper-out-in-anthropological-theory.html</loc>
+<loc>/posts/cultures-of-belief-new-paper-out-in-anthropological-theory.html</loc>
 <lastmod>2013-04-10T15:31:14+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/literacy-religious-renaissance-and-the-morality-system.html</loc>
+<loc>/posts/literacy-religious-renaissance-and-the-morality-system.html</loc>
 <lastmod>2013-04-04T20:00:23+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/new-blog-ethicscrassh.html</loc>
+<loc>/posts/new-blog-ethicscrassh.html</loc>
 <lastmod>2013-03-28T17:26:06+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/kwame-anthony-appiah-on-cosmopolitanism.html</loc>
+<loc>/posts/kwame-anthony-appiah-on-cosmopolitanism.html</loc>
 <lastmod>2013-01-31T19:17:42+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/stuart-hall-on-rootless-cosmopolitanism.html</loc>
+<loc>/posts/stuart-hall-on-rootless-cosmopolitanism.html</loc>
 <lastmod>2013-01-31T15:51:46+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/rooted-cosmopolitanism.html</loc>
+<loc>/posts/rooted-cosmopolitanism.html</loc>
 <lastmod>2013-01-31T15:44:43+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/alastair-macintyre-on-the-moralinstrumental-division-of-the-modern-world.html</loc>
+<loc>/posts/alastair-macintyre-on-the-moralinstrumental-division-of-the-modern-world.html</loc>
 <lastmod>2012-12-15T18:21:25+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/neoliberal-is-henceforth-dead-to-me.html</loc>
+<loc>/posts/neoliberal-is-henceforth-dead-to-me.html</loc>
 <lastmod>2012-12-14T16:53:31+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/new-sociology-of-ignorance-web-resource.html</loc>
+<loc>/posts/new-sociology-of-ignorance-web-resource.html</loc>
 <lastmod>2012-12-11T22:11:47+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/crassh-project-speaking-ethically-across-borders.html</loc>
+<loc>/posts/crassh-project-speaking-ethically-across-borders.html</loc>
 <lastmod>2012-12-07T18:56:01+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/cross-cultural-conversations-at-cross-purposes.html</loc>
+<loc>/posts/cross-cultural-conversations-at-cross-purposes.html</loc>
 <lastmod>2012-12-05T19:13:32+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/gdat-2012-debating-neoliberalism.html</loc>
+<loc>/posts/gdat-2012-debating-neoliberalism.html</loc>
 <lastmod>2012-12-05T13:49:55+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/evolution-and-religion-part-iii.html</loc>
+<loc>/posts/evolution-and-religion-part-iii.html</loc>
 <lastmod>2012-11-18T20:09:45+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/evolution-and-religion-part-ii.html</loc>
+<loc>/posts/evolution-and-religion-part-ii.html</loc>
 <lastmod>2012-11-18T11:15:40+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/evolution-and-religion.html</loc>
+<loc>/posts/evolution-and-religion.html</loc>
 <lastmod>2012-11-16T09:58:29+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/ignorance-and-power-critical-studies-in-education-503.html</loc>
+<loc>/posts/ignorance-and-power-critical-studies-in-education-503.html</loc>
 <lastmod>2012-10-31T16:15:02+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/ignorance-mobilization-joanne-gaudet.html</loc>
+<loc>/posts/ignorance-mobilization-joanne-gaudet.html</loc>
 <lastmod>2012-10-31T15:17:40+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/paul-stoller-social-engineering-and-the-politics-of-ignorance.html</loc>
+<loc>/posts/paul-stoller-social-engineering-and-the-politics-of-ignorance.html</loc>
 <lastmod>2012-07-05T10:05:22+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/cultures-of-ignorance-cfp-17th-world-congress-of-the-iuaes-manchester-2013.html</loc>
+<loc>/posts/cultures-of-ignorance-cfp-17th-world-congress-of-the-iuaes-manchester-2013.html</loc>
 <lastmod>2012-05-31T11:21:46+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/highly-recommended-laszlo-montgomerys-the-china-history-podcast.html</loc>
+<loc>/posts/highly-recommended-laszlo-montgomerys-the-china-history-podcast.html</loc>
 <lastmod>2012-05-10T20:21:53+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/us-discount-flyer-for-anthropology-of-ignorance.html</loc>
+<loc>/posts/us-discount-flyer-for-anthropology-of-ignorance.html</loc>
 <lastmod>2012-05-03T15:21:01+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/bbc-radio-4-great-lives-on-edward-said.html</loc>
+<loc>/posts/bbc-radio-4-great-lives-on-edward-said.html</loc>
 <lastmod>2012-05-01T17:39:43+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/peoples-daily-online-tibetan-buddhist-temples-in-chinas-inner-mongolia.html</loc>
+<loc>/posts/peoples-daily-online-tibetan-buddhist-temples-in-chinas-inner-mongolia.html</loc>
 <lastmod>2012-05-01T15:03:14+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/jiangsu-cadre-humanistic-buddhism-shares-common-origin-with-the-socialist-core-value-system.html</loc>
+<loc>/posts/jiangsu-cadre-humanistic-buddhism-shares-common-origin-with-the-socialist-core-value-system.html</loc>
 <lastmod>2012-05-01T14:36:51+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/posts/the-anthropology-of-ignorance.html</loc>
+<loc>/posts/the-anthropology-of-ignorance.html</loc>
 <lastmod>2012-04-17T18:21:36+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/category/posts</loc>
+<loc>/category/posts</loc>
 <lastmod>2017-06-02T08:14:48-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/anthropology-today</loc>
+<loc>/tag/anthropology-today</loc>
 <lastmod>2017-06-02T08:14:48-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/belief</loc>
+<loc>/tag/belief</loc>
 <lastmod>2017-06-02T08:14:48-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/metacognition</loc>
+<loc>/tag/metacognition</loc>
 <lastmod>2017-06-02T08:14:48-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/post-truth</loc>
+<loc>/tag/post-truth</loc>
 <lastmod>2017-06-02T08:14:48-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/buddhism</loc>
+<loc>/tag/buddhism</loc>
 <lastmod>2016-04-04T23:56:37-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/buddhist-economics</loc>
+<loc>/tag/buddhist-economics</loc>
 <lastmod>2016-04-04T23:56:37-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/schumacher</loc>
+<loc>/tag/schumacher</loc>
 <lastmod>2016-04-04T23:56:37-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/southwold</loc>
+<loc>/tag/southwold</loc>
 <lastmod>2016-04-04T23:56:37-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/anthropology</loc>
+<loc>/tag/anthropology</loc>
 <lastmod>2015-08-17T13:45:57-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/belief-scepticism</loc>
+<loc>/tag/belief-scepticism</loc>
 <lastmod>2015-08-17T13:45:57-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/ethnography-of-belief</loc>
+<loc>/tag/ethnography-of-belief</loc>
 <lastmod>2015-08-17T13:45:57-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/paul-veyne</loc>
+<loc>/tag/paul-veyne</loc>
 <lastmod>2015-08-17T13:45:57-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/religion</loc>
+<loc>/tag/religion</loc>
 <lastmod>2015-08-17T13:45:57-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/rodney-needham</loc>
+<loc>/tag/rodney-needham</loc>
 <lastmod>2015-08-17T13:45:57-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/anthropology-of-belief</loc>
+<loc>/tag/anthropology-of-belief</loc>
 <lastmod>2015-08-17T13:30:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/greek-myth</loc>
+<loc>/tag/greek-myth</loc>
 <lastmod>2015-08-17T13:30:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/intellectualism</loc>
+<loc>/tag/intellectualism</loc>
 <lastmod>2015-08-17T13:30:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/programmes-of-truth</loc>
+<loc>/tag/programmes-of-truth</loc>
 <lastmod>2015-08-17T13:30:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/regimes-of-belief</loc>
+<loc>/tag/regimes-of-belief</loc>
 <lastmod>2015-08-17T13:30:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/truth</loc>
+<loc>/tag/truth</loc>
 <lastmod>2015-08-17T13:30:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/debate</loc>
+<loc>/tag/debate</loc>
 <lastmod>2015-07-06T09:31:19-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/gdat</loc>
+<loc>/tag/gdat</loc>
 <lastmod>2015-07-06T09:31:19-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/neoliberalism</loc>
+<loc>/tag/neoliberalism</loc>
 <lastmod>2015-07-06T09:31:19-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/ignorance</loc>
+<loc>/tag/ignorance</loc>
 <lastmod>2014-01-26T14:54:46-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/sociology</loc>
+<loc>/tag/sociology</loc>
 <lastmod>2014-01-26T14:54:46-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/cambridge</loc>
+<loc>/tag/cambridge</loc>
 <lastmod>2013-12-11T21:54:28-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/coleman</loc>
+<loc>/tag/coleman</loc>
 <lastmod>2013-12-11T21:54:28-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/conference</loc>
+<loc>/tag/conference</loc>
 <lastmod>2013-12-11T21:54:28-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/ethics</loc>
+<loc>/tag/ethics</loc>
 <lastmod>2013-12-11T21:54:28-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/lambek</loc>
+<loc>/tag/lambek</loc>
 <lastmod>2013-12-11T21:54:28-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/philosophy</loc>
+<loc>/tag/philosophy</loc>
 <lastmod>2013-12-11T21:54:28-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/abby-day</loc>
+<loc>/tag/abby-day</loc>
 <lastmod>2013-06-30T15:16:07-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/census</loc>
+<loc>/tag/census</loc>
 <lastmod>2013-06-30T15:16:07-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/christianity</loc>
+<loc>/tag/christianity</loc>
 <lastmod>2013-06-30T15:16:07-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/fate</loc>
+<loc>/tag/fate</loc>
 <lastmod>2013-06-30T15:16:07-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/ghosts</loc>
+<loc>/tag/ghosts</loc>
 <lastmod>2013-06-30T15:16:07-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/uk</loc>
+<loc>/tag/uk</loc>
 <lastmod>2013-06-30T15:16:07-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/evangelicals</loc>
+<loc>/tag/evangelicals</loc>
 <lastmod>2013-04-10T16:42:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/gods</loc>
+<loc>/tag/gods</loc>
 <lastmod>2013-04-10T16:42:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/greece</loc>
+<loc>/tag/greece</loc>
 <lastmod>2013-04-10T16:42:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/judaism</loc>
+<loc>/tag/judaism</loc>
 <lastmod>2013-04-10T16:42:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/maimonides</loc>
+<loc>/tag/maimonides</loc>
 <lastmod>2013-04-10T16:42:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/felicitas-becker</loc>
+<loc>/tag/felicitas-becker</loc>
 <lastmod>2013-04-04T20:00:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/funerary-practice</loc>
+<loc>/tag/funerary-practice</loc>
 <lastmod>2013-04-04T20:00:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/islam</loc>
+<loc>/tag/islam</loc>
 <lastmod>2013-04-04T20:00:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/islamism</loc>
+<loc>/tag/islamism</loc>
 <lastmod>2013-04-04T20:00:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/morality-system</loc>
+<loc>/tag/morality-system</loc>
 <lastmod>2013-04-04T20:00:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/sufism</loc>
+<loc>/tag/sufism</loc>
 <lastmod>2013-04-04T20:00:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/tanzania</loc>
+<loc>/tag/tanzania</loc>
 <lastmod>2013-04-04T20:00:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/virtue-ethics</loc>
+<loc>/tag/virtue-ethics</loc>
 <lastmod>2013-04-04T20:00:23-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/cosmopolitanism</loc>
+<loc>/tag/cosmopolitanism</loc>
 <lastmod>2013-01-31T19:17:42-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/kwame-anthony-appiah</loc>
+<loc>/tag/kwame-anthony-appiah</loc>
 <lastmod>2013-01-31T19:17:42-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/video</loc>
+<loc>/tag/video</loc>
 <lastmod>2013-01-31T19:17:42-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/pnina-werbner</loc>
+<loc>/tag/pnina-werbner</loc>
 <lastmod>2013-01-31T15:51:46-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/stuart-hall</loc>
+<loc>/tag/stuart-hall</loc>
 <lastmod>2013-01-31T15:51:46-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/bryan-turner</loc>
+<loc>/tag/bryan-turner</loc>
 <lastmod>2013-01-31T15:44:43-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/gandhi</loc>
+<loc>/tag/gandhi</loc>
 <lastmod>2013-01-31T15:44:43-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/martha-nussbaum</loc>
+<loc>/tag/martha-nussbaum</loc>
 <lastmod>2013-01-31T15:44:43-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/martin-luther-king</loc>
+<loc>/tag/martin-luther-king</loc>
 <lastmod>2013-01-31T15:44:43-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/alasdair-macintyre</loc>
+<loc>/tag/alasdair-macintyre</loc>
 <lastmod>2012-12-15T18:21:25-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/emotivism</loc>
+<loc>/tag/emotivism</loc>
 <lastmod>2012-12-15T18:21:25-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/kathleen-fitzpatrick</loc>
+<loc>/tag/kathleen-fitzpatrick</loc>
 <lastmod>2012-12-14T16:53:31-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/neoliberal-university</loc>
+<loc>/tag/neoliberal-university</loc>
 <lastmod>2012-12-14T16:53:31-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/crassh</loc>
+<loc>/tag/crassh</loc>
 <lastmod>2012-12-07T18:56:01-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/inter-disciplinarity</loc>
+<loc>/tag/inter-disciplinarity</loc>
 <lastmod>2012-12-07T18:56:01-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/china</loc>
+<loc>/tag/china</loc>
 <lastmod>2012-12-05T19:13:32-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/conversations-at-cross-purposes</loc>
+<loc>/tag/conversations-at-cross-purposes</loc>
 <lastmod>2012-12-05T19:13:32-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/e</loc>
+<loc>/tag/e</loc>
 <lastmod>2012-12-05T19:13:32-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/inner-mongolia</loc>
+<loc>/tag/inner-mongolia</loc>
 <lastmod>2012-12-05T19:13:32-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/missionaries</loc>
+<loc>/tag/missionaries</loc>
 <lastmod>2012-12-05T19:13:32-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/self-cultivation</loc>
+<loc>/tag/self-cultivation</loc>
 <lastmod>2012-12-05T19:13:32-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/james-laidlaw</loc>
+<loc>/tag/james-laidlaw</loc>
 <lastmod>2012-12-05T13:49:55-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/keir-martin</loc>
+<loc>/tag/keir-martin</loc>
 <lastmod>2012-12-05T13:49:55-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/manchester</loc>
+<loc>/tag/manchester</loc>
 <lastmod>2012-12-05T13:49:55-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/thomas-hylland-eriksen</loc>
+<loc>/tag/thomas-hylland-eriksen</loc>
 <lastmod>2012-12-05T13:49:55-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/bruno-latour</loc>
+<loc>/tag/bruno-latour</loc>
 <lastmod>2012-11-18T20:09:45-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/charles-taylor</loc>
+<loc>/tag/charles-taylor</loc>
 <lastmod>2012-11-18T20:09:45-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/evolution</loc>
+<loc>/tag/evolution</loc>
 <lastmod>2012-11-18T20:09:45-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/marcel-mauss</loc>
+<loc>/tag/marcel-mauss</loc>
 <lastmod>2012-11-18T20:09:45-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/michael-blume</loc>
+<loc>/tag/michael-blume</loc>
 <lastmod>2012-11-18T20:09:45-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/mongolia</loc>
+<loc>/tag/mongolia</loc>
 <lastmod>2012-11-18T20:09:45-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/soviet-union</loc>
+<loc>/tag/soviet-union</loc>
 <lastmod>2012-11-18T20:09:45-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/talal-asad</loc>
+<loc>/tag/talal-asad</loc>
 <lastmod>2012-11-18T20:09:45-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/social-science</loc>
+<loc>/tag/social-science</loc>
 <lastmod>2012-11-18T11:15:40-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/william-robertson-smith</loc>
+<loc>/tag/william-robertson-smith</loc>
 <lastmod>2012-11-18T11:15:40-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/paul-stoller</loc>
+<loc>/tag/paul-stoller</loc>
 <lastmod>2012-07-05T10:05:22-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/politics</loc>
+<loc>/tag/politics</loc>
 <lastmod>2012-07-05T10:05:22-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/usa</loc>
+<loc>/tag/usa</loc>
 <lastmod>2012-07-05T10:05:22-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/call-for-papers</loc>
+<loc>/tag/call-for-papers</loc>
 <lastmod>2012-05-31T11:21:46-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/iuaes</loc>
+<loc>/tag/iuaes</loc>
 <lastmod>2012-05-31T11:21:46-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/jenny-diggins</loc>
+<loc>/tag/jenny-diggins</loc>
 <lastmod>2012-05-31T11:21:46-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/history</loc>
+<loc>/tag/history</loc>
 <lastmod>2012-05-10T20:21:53-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/podcast</loc>
+<loc>/tag/podcast</loc>
 <lastmod>2012-05-10T20:21:53-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/recommended</loc>
+<loc>/tag/recommended</loc>
 <lastmod>2012-05-10T20:21:53-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/ann-kelly</loc>
+<loc>/tag/ann-kelly</loc>
 <lastmod>2012-05-03T15:21:01-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/casey-high</loc>
+<loc>/tag/casey-high</loc>
 <lastmod>2012-05-03T15:21:01-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/edward-said</loc>
+<loc>/tag/edward-said</loc>
 <lastmod>2012-05-01T17:39:43-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/orientalism</loc>
+<loc>/tag/orientalism</loc>
 <lastmod>2012-05-01T17:39:43-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/teaching</loc>
+<loc>/tag/teaching</loc>
 <lastmod>2012-05-01T17:39:43-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/alashaa</loc>
+<loc>/tag/alashaa</loc>
 <lastmod>2012-05-01T15:03:14-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/baotou</loc>
+<loc>/tag/baotou</loc>
 <lastmod>2012-05-01T15:03:14-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/tibetan-buddhism</loc>
+<loc>/tag/tibetan-buddhism</loc>
 <lastmod>2012-05-01T15:03:14-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/ccp</loc>
+<loc>/tag/ccp</loc>
 <lastmod>2012-05-01T14:36:51-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/fo-guang-shan</loc>
+<loc>/tag/fo-guang-shan</loc>
 <lastmod>2012-05-01T14:36:51-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/jiangsu</loc>
+<loc>/tag/jiangsu</loc>
 <lastmod>2012-05-01T14:36:51-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/master-xing-yun</loc>
+<loc>/tag/master-xing-yun</loc>
 <lastmod>2012-05-01T14:36:51-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/taiwan</loc>
+<loc>/tag/taiwan</loc>
 <lastmod>2012-05-01T14:36:51-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/almsgiving</loc>
+<loc>/tag/almsgiving</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/amazon</loc>
+<loc>/tag/amazon</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/argentina</loc>
+<loc>/tag/argentina</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/biography</loc>
+<loc>/tag/biography</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/book</loc>
+<loc>/tag/book</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/fertility</loc>
+<loc>/tag/fertility</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/greenland</loc>
+<loc>/tag/greenland</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/housing</loc>
+<loc>/tag/housing</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/japan</loc>
+<loc>/tag/japan</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/networking</loc>
+<loc>/tag/networking</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/nrt</loc>
+<loc>/tag/nrt</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/senegal</loc>
+<loc>/tag/senegal</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/shamanism</loc>
+<loc>/tag/shamanism</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/suicide</loc>
+<loc>/tag/suicide</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/tag/the-gift</loc>
+<loc>/tag/the-gift</loc>
 <lastmod>2012-04-17T18:21:36-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.jonathanmair.com/author/baisui</loc>
+<loc>/author/baisui</loc>
 <lastmod>2017-06-02T08:14:48-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
