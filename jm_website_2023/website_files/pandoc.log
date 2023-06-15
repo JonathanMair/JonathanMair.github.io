@@ -1,0 +1,29 @@
+[
+    {
+        "type": "LoadedResource",
+        "verbosity": "INFO",
+        "for": "/Users/jonathanmair/Dropbox/coding/python/2023_static_sites/.venv/lib/python3.11/site-packages/pelican/plugins/pandoc_reader/templates/pandoc-reader-default.html",
+        "from": "/Users/jonathanmair/Dropbox/coding/python/2023_static_sites/.venv/lib/python3.11/site-packages/pelican/plugins/pandoc_reader/templates/pandoc-reader-default.html"
+    },
+    {
+        "type": "RunningFilter",
+        "verbosity": "INFO",
+        "path": "citeproc"
+    },
+    {
+        "type": "LoadedResource",
+        "verbosity": "INFO",
+        "for": "/Users/jonathanmair/Dropbox/System/latexresources/texmf/bibtex/bib/publications.csl",
+        "from": "/Users/jonathanmair/Dropbox/System/latexresources/texmf/bibtex/bib/publications.csl"
+    },
+    {
+        "type": "FilterCompleted",
+        "verbosity": "INFO",
+        "path": "citeproc",
+        "milliseconds": "18"
+    },
+    {
+        "type": "NoLangSpecified",
+        "verbosity": "INFO"
+    }
+]

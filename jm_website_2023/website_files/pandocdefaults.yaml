@@ -1,0 +1,7 @@
+verbosity: INFO
+data-dir: ${.}
+reader: markdown
+writer: html5
+log-file: pandoc.log
+citeproc: true
+csl: '/Users/jonathanmair/Dropbox/System/latexresources/texmf/bibtex/bib/publications.csl'
