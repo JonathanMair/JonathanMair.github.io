@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/</loc>
-<lastmod>2023-06-15T14:36:10-00:00</lastmod>
+<lastmod>2023-06-15T16:27:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/</loc>
-<lastmod>2023-06-15T14:36:10-00:00</lastmod>
+<lastmod>2023-06-15T16:27:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/archive/</loc>
-<lastmod>2023-06-15T14:36:10-00:00</lastmod>
+<lastmod>2023-06-15T16:27:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,7 +47,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/2023-06-01-oscar-kruger-article-whats-in-a-container/</loc>
-<lastmod>2023-06-14T08:32:30+02:00</lastmod>
+<lastmod>2023-06-15T16:26:59+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -271,7 +271,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/anthropology/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-06-15T16:26:59-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -299,7 +299,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/author/jonathan-mair/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-06-15T16:26:59-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
