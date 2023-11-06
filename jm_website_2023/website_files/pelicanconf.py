@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Jonathan Mair'
 SITENAME = u'Jonathan Mair'
 SITESUBTITLE = u'Out of the frying pan.'
-SITEURL = 'http://jonathanmair.com'
+SITEURL = 'https://www.jonathanmair.com'
 
 PATH = 'content'
 
@@ -197,6 +197,7 @@ AUTHORS_BIO = {
     # "website": "https://www.jonathanmair.com",
     "linkedin": "jonathan-mair-phd",
     "github": "JonathanMair",
+    "twitter": "urtnas",
     "location": "Sevilla",
     "bio": '''Anthropologist, ethnographer, qualitative research designer,
             social scientist, coder and data ethnusiast. 
@@ -208,7 +209,8 @@ MENUITEMS = (('Home', '/'),
              ('About', '/about/'),
              ('Anthropology', '/anthropology/'),
              ('Archives','/archive/'),
-             ('Tags', '/tag/'))
+             ('Tags', '/tag/'),
+             ('Publications', '/publications/'))
 
 SHOW_ARTICLE_MODIFIED_TIME = True
 SHOW_AUTHOR_BIO_IN_ARTICLE = True

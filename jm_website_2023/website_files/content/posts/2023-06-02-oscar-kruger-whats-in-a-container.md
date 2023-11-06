@@ -1,5 +1,5 @@
 ---
-title: 'Oscar Kruger article: What&#39;s in a container?'
+title: 'Oscar Krüger article: What&#39;s in a container?'
 date: 2023-06-01
 category: anthropology
 tags: business, consumption, production, wine, ethnography
