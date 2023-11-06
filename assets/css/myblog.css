@@ -1,1 +1,27 @@
-/*your custom css styles here*/ pre code { margin:0!important; padding:0!important; } .post-title { } .csl-entry { text-indent: -3em; margin-left: 3em; padding-bottom: 25px; } .blog-name{ text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4); position: relative; top:180px; } .blog-description{ text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4); position: relative; top:180px; }
+/*your custom css styles here*/
+
+pre code {
+  margin:0!important;
+  padding:0!important;
+}
+
+.post-title {
+}
+
+.csl-entry {
+   text-indent: -3em;
+   margin-left: 3em;
+   padding-bottom: 25px;
+}
+
+.blog-name{
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  position: relative;
+  top:180px;
+}
+
+.blog-description{
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  position: relative;
+  top:180px;
+}
