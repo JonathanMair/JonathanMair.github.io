@@ -120,14 +120,14 @@ PLUGIN_PATHS = [
 ]
 
 PLUGINS = [
-  'sitemap',
-  'neighbors',
-  'assets',
-  'post_stats',
+    'sitemap',
+    'neighbors',
+    'assets',
+    'post_stats',
 ]
 
 IGNORE_FILES = [
-'includes'
+    'includes'
 ]
 
 # Sitemap
