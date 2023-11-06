@@ -146,7 +146,7 @@ SITEMAP = {
 }
 
 # Analytics
-# GOOGLE_ANALYTICS = "UA-3546274-12"
+GOOGLE_ANALYTICS = "G-81JH3X4RG8"
 
 THEME = '/Users/jonathanmair/pelican-themes/attila-1.6'
 
