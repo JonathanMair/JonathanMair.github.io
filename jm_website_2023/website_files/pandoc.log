@@ -26,7 +26,7 @@
         "type": "FilterCompleted",
         "verbosity": "INFO",
         "path": "citeproc",
-        "milliseconds": "78"
+        "milliseconds": "77"
     },
     {
         "type": "NoLangSpecified",

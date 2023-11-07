@@ -149,14 +149,14 @@ SITEMAP = {
 GOOGLE_ANALYTICS = "G-81JH3X4RG8"
 
 # THEME = "/Users/jonathanmair/Dropbox/coding/python/2023_static_sites/jm_website_2023/theme/attila-2.0"
-THEME = "/Users/jonathanmair/pelican-themes/attila-2.0"
+THEME = "/Users/jonathanmair/pelican-themes/attila-1.6"
 
 ### Theme specific settings
 
 # To set background image for the home page.
-HOME_COVER = 'assets/images/banner.jpg'
+HOME_COVER = 'assets/images/banner-jonathan-mair.jpg'
 # JM: added this...
-HEADER_COVER = 'assets/images/banner.jpg'
+HEADER_COVER = 'assets/images/banner-jonathan-mair.jpg'
 
 # Custom Header
 
