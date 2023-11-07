@@ -16,19 +16,21 @@
   <meta name="generator" content="Pelican" />
 <link href="https://www.jonathanmair.com/2023/06/oscar-kruger-article-whats-in-a-container/" rel="canonical" />
   <!-- Feed -->
-        <link href="https://www.jonathanmair.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Jonathan Mair Full Atom Feed" />
-          <link href="https://www.jonathanmair.com/feeds/anthropology.atom.xml" type="application/atom+xml" rel="alternate" title="Jonathan Mair Categories Atom Feed" />
+  <link href="https://www.jonathanmair.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+    title="Jonathan Mair Full Atom Feed" />
+  <link href="https://www.jonathanmair.com/feeds/anthropology.atom.xml" type="application/atom+xml"
+    rel="alternate" title="Jonathan Mair Categories Atom Feed" />
 
   <link href="https://www.jonathanmair.com/theme/css/style.css" type="text/css" rel="stylesheet" />
 
-    <!-- CSS specified by the user -->
+  <!-- CSS specified by the user -->
 
 
-    <link href="https://www.jonathanmair.com/assets/css/jonathan-mair-anthropology.css" type="text/css" rel="stylesheet" />
+  <link href="https://www.jonathanmair.com/assets/css/jonathan-mair-anthropology.css" type="text/css" rel="stylesheet" />
 
-    <!-- Custom fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+  <!-- Custom fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -36,6 +38,28 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
+
+  <script>
+    var siteUrl = 'https://www.jonathanmair.com';
+  </script>
+
+  <script>
+    var localTheme = localStorage.getItem('attila_theme');
+    switch (localTheme) {
+      case 'dark':
+        document.documentElement.classList.add('theme-dark');
+        break;
+      case 'light':
+        document.documentElement.classList.add('theme-light');
+        break;
+      default:
+        break;
+    }
+  </script>
+
+
+
+
 
 
 
@@ -99,8 +123,14 @@
 }
 </script>
 </head>
-<!-- TODO : Body class -->
-<body class="home-template">
+
+
+
+
+
+
+
+<body class="category-template">
 
 <nav id="menu">
   <a class="close-button">Close</a>
@@ -123,48 +153,50 @@
     </ul>
   </div>
 </nav>
+  <section id="wrapper" class="page-wrapper">
     <!-- Progressbar -->
     <div class="progress-container">
-        <span class="progress-bar"></span>
+      <span class="progress-bar"></span>
     </div>
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header id="post-header" class="has-cover">
+    <header class="post-header  has-cover ">
       <div class="inner">
-        <nav id="navigation">
-            <span id="home-button" class="nav-button">
-                <a class="home-button" href="https://www.jonathanmair.com/" aria-label="Home" title="Home">
-                  <i class="ic ic-arrow-left" aria-hidden="true"></i>
-                  <span>Home</span>
-                </a>
-            </span>
-          <span id="menu-button" class="nav-button">
-            <a class="menu-button" aria-label="Menu">
-              <i class="ic ic-menu" aria-hidden="true"></i>
-              <span>Menu</span>
-            </a>
-          </span>
-        </nav>
-        <h1 class="post-title">Oscar Krüger article: What&#8217;s in a&nbsp;container?</h1>
-        <!-- TODO : Proper class for headline -->
-        <span class="post-meta">
-                <a href="https://www.jonathanmair.com/author/jonathan-mair/">Jonathan Mair</a>
-            | <time datetime="Thu, 01 Jun 2023">Thu, 01 Jun 2023</time>
+        <span class="post-info">
+          <span class="post-type">Article</span>
+          <span class="post-count">Anthropology</span>
         </span>
-            <div class="post-cover cover" style="background-image: url('https://www.jonathanmair.com/assets/images/banner.jpg')">
+        <h1 class="post-title">Oscar Krüger article: What&#8217;s in a&nbsp;container?</h1>
+        <div class="post-meta">
+          <div class="post-meta-avatars">
+
+
+            <figure class="post-meta-avatar avatar">
+              <a class="author-avatar" href="https://www.jonathanmair.com/author/jonathan-mair/">
+                <img class="author-profile-image" src="" alt="Jonathan Mair" />
+              </a>
+            </figure>
+          </div>
+
+          <h4 class="post-meta-author">
+            Jonathan Mair
+          </h4>
+          <time datetime="Thu, 01 Jun 2023">Thu, 01 Jun 2023</time>
+          &bull; 2 min read
+        </div>
+          <div class="post-cover cover">
+            <img src="https://www.jonathanmair.com/assets/images/banner.jpg" alt="Category anthropology" />
+          </div>
       </div>
     </header>
-
-  <section id="wrapper">
-    <a class="hidden-close"></a>
 
     <!-- Post content -->
     <main class="content" role="main">
         <article class="post">
         <div class="inner">
-            <section class="post-content">
-                <p>We are all consumers of many kinds of goods, and in that capacity, we
+          <section class="post-content">
+            <p>We are all consumers of many kinds of goods, and in that capacity, we
 can hardly be unaware of the importance of the containers in which those
 goods are packaged. Containers protect and condition what they contain,
 and they can be part of the experience of consumption, enhancing or
@@ -208,91 +240,80 @@ specific place allows both product and place to acquire greater
 distinctiveness and greater value. Clearly where this connection is
 facilitated by the relatively small and heavy glass bottle, it comes at
 a cost for the producer, and for the&nbsp;environment.</p>
-            </section>
-
-            <section class="post-info">
-                <div class="post-share">
-                    <a title="Twitter" aria-label="Twitter" class="twitter" href="https://twitter.com/share?text=Oscar Krüger article: What&#8217;s in a&nbsp;container?&amp;url=https://www.jonathanmair.com/2023/06/oscar-kruger-article-whats-in-a-container/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-                      <i class="ic ic-twitter" aria-hidden="true"></i><span class="hidden">Twitter</span>
-                    </a>
-                    <a title="Facebook" aria-label="Facebook" class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.jonathanmair.com/2023/06/oscar-kruger-article-whats-in-a-container/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-                      <i class="ic ic-facebook" aria-hidden="true"></i><span class="hidden">Facebook</span>
-                    </a>
-                    <a title="LinkedIn" aria-label="LinkedIn" class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.jonathanmair.com/2023/06/oscar-kruger-article-whats-in-a-container/&amp;title=Oscar Krüger article: What&#8217;s in a&nbsp;container?" onclick="window.open(this.href, 'linkedin-share', 'width=930,height=720');return false;">
-                      <i class="ic ic-linkedin" aria-hidden="true"></i><span class="hidden">LinkedIn</span>
-                    </a>
-                    <a title="Email" aria-label="Email" class="email" href="mailto:?subject=Oscar Krüger article: What&#8217;s in a&nbsp;container?&amp;body=https://www.jonathanmair.com/2023/06/oscar-kruger-article-whats-in-a-container/">
-                      <i class="ic ic-mail" aria-hidden="true"></i><span class="hidden">Email</span>
-                    </a>
-                    <div class="clear"></div>
-                </div>
-
-                <aside class="post-tags">
-<a href="https://www.jonathanmair.com/tag/business/">business</a><a href="https://www.jonathanmair.com/tag/consumption/">consumption</a><a href="https://www.jonathanmair.com/tag/production/">production</a><a href="https://www.jonathanmair.com/tag/wine/">wine</a><a href="https://www.jonathanmair.com/tag/ethnography/">ethnography</a>                </aside>
-
-                <div class="clear"></div>
-
-                <aside class="post-author">
+          </section>
 
 
-                        <figure class="post-author-avatar">
-                            <img src="https://www.jonathanmair.com/assets/images/jonathan-mair.jpg" alt="Jonathan Mair" />
-                        </figure>
-                    <div class="post-author-bio">
-                        <h4 class="post-author-name"><a href="https://www.jonathanmair.com/author/jonathan-mair/">Jonathan Mair</a></h4>
-                            <p class="post-author-about">Anthropologist, ethnographer, qualitative research designer,
-            social scientist, coder and data ethnusiast. 
-          </p>
-                            <span class="post-author-location"><i class="ic ic-location"></i> Sevilla</span>
-                        <!-- Social linkes in alphabet order. -->
-                            <span class="post-author-github"><a target="_blank" href="https://github.com/JonathanMair"><i class="ic ic-github"></i> GitHub</a></span>
-                            <span class="post-author-linkedin"><a target="_blank" href="https://www.linkedin.com/in/jonathan-mair-phd"><i class="ic ic-linkedin"></i> LinkedIn</a></span>
-                            <span class="post-author-twitter"><a target="_blank" href="https://twitter.com/urtnas"><i class="ic ic-twitter"></i> Twitter</a></span>
-                    </div>
-                    <div class="clear"></div>
-                </aside>
-
-                </section>
-
-                <script type="text/javascript">
-                    var disqus = 'jonathanmair';
-                    var disqus_shortname = 'jonathanmair';
-                    var disqus_identifier = '/2023/06/oscar-kruger-article-whats-in-a-container/';
-                    var disqus_url = 'https://www.jonathanmair.com/2023/06/oscar-kruger-article-whats-in-a-container/';
-                </script>
-                <noscript>Please enable JavaScript to view the comments.</noscript>
-                <section class="post-comments">
-                        <a id="show-disqus" class="post-comments-activate" data-disqus-identifier="/2023/06/oscar-kruger-article-whats-in-a-container/" >Show Comments</a>
-                    <div id="disqus_thread"></div>
-                </section>
-
-                <aside class="post-nav">
-                    <a class="post-nav-prev" href="https://www.jonathanmair.com/2017/06/post-truth-anthropology-published-in-anthropology-today/">
-                        <section class="post-nav-teaser">
-                            <i class="ic ic-arrow-right"></i>
-                                <h2 class="post-nav-title">Post-truth anthropology—published in Anthropology&nbsp;Today</h2>
-                            <p class="post-nav-excerpt">A guest editorial on ‘Post-truth anthropology’ that I wrote for Anthropology Today is...</p>
-                        </section>
-                    </a>
-                    <div class="clear"></div>
-                </aside>
-
+          <section class="post-footer" style="margin: 12rem 0 0;">
+            <div class="post-share">
+              <span class="post-info-label">Share</span>
+              <a title="Twitter" aria-label="Twitter" class="twitter" href="https://twitter.com/share?text=Oscar Krüger article: What&#8217;s in a&nbsp;container?&amp;url=https://www.jonathanmair.com/2023/06/oscar-kruger-article-whats-in-a-container/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="icon icon-twitter" aria-hidden="true"></i><span class="hidden">Twitter</span>
+              </a>
+              <a title="Facebook" aria-label="Facebook" class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.jonathanmair.com/2023/06/oscar-kruger-article-whats-in-a-container/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                <i class="icon icon-facebook" aria-hidden="true"></i><span class="hidden">Facebook</span>
+              </a>
+              <a title="LinkedIn" aria-label="LinkedIn" class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.jonathanmair.com/2023/06/oscar-kruger-article-whats-in-a-container/&amp;title=Oscar Krüger article: What&#8217;s in a&nbsp;container?" onclick="window.open(this.href, 'linkedin-share', 'width=930,height=720');return false;">
+                <i class="icon icon-linkedin" aria-hidden="true"></i><span class="hidden">LinkedIn</span>
+              </a>
+              <a title="Email" aria-label="Email" class="email" href="mailto:?subject=Oscar Krüger article: What&#8217;s in a&nbsp;container?&amp;body=https://www.jonathanmair.com/2023/06/oscar-kruger-article-whats-in-a-container/">
+                <i class="icon icon-mail" aria-hidden="true"></i><span class="hidden">Email</span>
+              </a>
+              <div class="clear"></div>
             </div>
-        </article>
-    </main>
-      <!-- TODO : Body class -->
-    <div id="body-class" style="display: none;" class=""></div>
 
-    <footer id="footer">
-      <div class="inner">
-        <section class="credits">
-        </section>
-      </div>
-    </footer>
+            <aside class="post-tags">
+<a href="https://www.jonathanmair.com/tag/business/">business</a><a href="https://www.jonathanmair.com/tag/consumption/">consumption</a><a href="https://www.jonathanmair.com/tag/production/">production</a><a href="https://www.jonathanmair.com/tag/wine/">wine</a><a href="https://www.jonathanmair.com/tag/ethnography/">ethnography</a>            </aside>
+
+            <div class="clear"></div>
+
+
+          </section>
+
+          <script type="text/javascript">
+            var disqus = 'jonathanmair';
+            var disqus_shortname = 'jonathanmair';
+            var disqus_identifier = '/2023/06/oscar-kruger-article-whats-in-a-container/';
+            var disqus_url = 'https://www.jonathanmair.com/2023/06/oscar-kruger-article-whats-in-a-container/';
+          </script>
+          <noscript>Please enable JavaScript to view the comments.</noscript>
+          <section class="post-comments">
+              <a id="show-disqus" class="post-comments-activate" data-disqus-identifier="/2023/06/oscar-kruger-article-whats-in-a-container/" >Show Comments</a>
+            <div id="disqus_thread"></div>
+          </section>
+
+          <aside class="post-nav">
+            <a class="post-nav-prev" href="https://www.jonathanmair.com/2017/06/post-truth-anthropology-published-in-anthropology-today/">
+              <section class="post-nav-teaser">
+                <i class="icon icon-arrow-right"></i>
+                  <h2 class="post-nav-title">Post-truth anthropology—published in Anthropology&nbsp;Today</h2>
+                <p class="post-nav-excerpt">A guest editorial on ‘Post-truth anthropology’ that I wrote for Anthropology Today is...</p>
+                <p class="post-nav-meta"><time datetime="Fri, 02 Jun 2017">Fri, 02 Jun 2017</time></p>
+              </section>
+            </a>
+            <div class="clear"></div>
+          </aside>
+
+        </div>
+      </article>
+    </main>
+    <div class="nav-footer">
+      <nav class="nav-wrapper" aria-label="Footer">
+        <span class="nav-copy">Jonathan Mair &copy; 2023
+        </span>
+        <span class="nav-credits">
+
+          <a class="menu-item js-theme" href="#" data-system="System theme" data-dark="Dark theme" data-light="Light theme">
+            <span class="theme-icon"></span><span class="theme-text">System theme</span>
+          </a>
+        </span>
+      </nav>
+    </div>
+
   </section>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+  <script type="text/javascript" src="https://www.jonathanmair.com/theme/js/jquery.fitvids.js"></script>
   <script type="text/javascript" src="https://www.jonathanmair.com/theme/js/script.js"></script>
 
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
@@ -312,5 +333,84 @@ a cost for the producer, and for the&nbsp;environment.</p>
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
 </script>
+
+  <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
+
+<script>
+  $(document).ready(function () {
+    var viewport = $(window);
+    var post = $('.post-content');
+    // Responsive videos with fitVids
+    post.fitVids();
+
+    var mdSelector=".highlight pre";
+    var rstSelector=".highlight pre";
+    var selector=mdSelector;
+    // Format code blocks and add line numbers
+    function codestyling() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+        // No lines for plain text blocks
+        if (!$(this).hasClass('language-text')) {
+          var code = $(this);
+          // Calculate amount of lines
+          var lines = code.html().split(/\n(?!$)/g).length;
+          var numbers = [];
+          if (lines > 1) {
+            lines++;
+          }
+          for (i = 1; i < lines; i++) {
+            numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
+          }
+          code.parent().append('<div class="lines">' + numbers + '</div>');
+        }
+      });
+    }
+
+    // Format code blocks only
+    function codestylingWithoutLineNumbers() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+      });
+    }
+
+    codestylingWithoutLineNumbers();
+    // Reading progress bar on window top
+    function readingProgress() {
+      var postBottom = post.offset().top + post.height();
+      var viewportHeight = viewport.height();
+      var progress = 100 - (((postBottom - (viewport.scrollTop() + viewportHeight) + viewportHeight / 3) / (postBottom - viewportHeight + viewportHeight / 3)) * 100);
+      $('.progress-bar').css('width', progress + '%');
+      (progress > 100) ? $('.progress-container').addClass('complete'): $('.progress-container').removeClass('complete');
+    }
+    readingProgress();
+    // Trigger reading progress
+    viewport.on({
+      'scroll': function() {
+        readingProgress();
+      },
+      'resize': function() {
+        readingProgress();
+      },
+      'orientationchange': function() {
+        readingProgress();
+      }
+    });
+
+      var disqus = 'jonathanmair';
+      $('#show-disqus').on('click', function() {
+        $.ajax({
+          type: "GET",
+          url: "//" + disqus + ".disqus.com/embed.js",
+          dataType: "script",
+          cache: true
+        });
+        $(this).parent().addClass('activated');
+      });
+  });
+</script>
 </body>
+
 </html>

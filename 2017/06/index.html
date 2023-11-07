@@ -16,18 +16,19 @@
   <meta name="generator" content="Pelican" />
 <link href="https://www.jonathanmair.com/2017/6" rel="canonical" />
   <!-- Feed -->
-        <link href="https://www.jonathanmair.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Jonathan Mair Full Atom Feed" />
+  <link href="https://www.jonathanmair.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+    title="Jonathan Mair Full Atom Feed" />
 
   <link href="https://www.jonathanmair.com/theme/css/style.css" type="text/css" rel="stylesheet" />
 
-    <!-- CSS specified by the user -->
+  <!-- CSS specified by the user -->
 
 
-    <link href="https://www.jonathanmair.com/assets/css/jonathan-mair-anthropology.css" type="text/css" rel="stylesheet" />
+  <link href="https://www.jonathanmair.com/assets/css/jonathan-mair-anthropology.css" type="text/css" rel="stylesheet" />
 
-    <!-- Custom fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+  <!-- Custom fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -36,8 +37,36 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
 
+  <script>
+    var siteUrl = 'https://www.jonathanmair.com';
+  </script>
+
+  <script>
+    var localTheme = localStorage.getItem('attila_theme');
+    switch (localTheme) {
+      case 'dark':
+        document.documentElement.classList.add('theme-dark');
+        break;
+      case 'light':
+        document.documentElement.classList.add('theme-light');
+        break;
+      default:
+        break;
+    }
+  </script>
+
+
+
+
+
 </head>
-<!-- TODO : Body class -->
+
+
+
+
+
+
+
 <body class="home-template">
 
 <nav id="menu">
@@ -61,46 +90,44 @@
     </ul>
   </div>
 </nav>
+  <section id="wrapper" class="page-wrapper">
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header id="blog-header" class="has-cover">
+    <header class="blog-header  has-cover ">
       <div class="inner">
-        <nav id="navigation">
-            <span id="home-button" class="nav-button">
-                <a class="home-button" href="https://www.jonathanmair.com/" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
-            </span>
-          <span id="menu-button" class="nav-button">
-            <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
-          </span>
-        </nav>
         <h1 class="post-title">Archives for June 2017</h1>
-          <div class="blog-cover cover" style="background-image: url('https://www.jonathanmair.com/assets/images/banner.jpg')">
-      </div>
+          <div class="post-cover cover">
+            <img src="https://www.jonathanmair.com/assets/images/banner.jpg" alt="Archives for June 2017" />
+          </div>
     </header>
-
-  <section id="wrapper">
-    <a class="hidden-close"></a>
   <article class="post">
     <div class="inner">
-      <dl>
+      <section class="post-content">
+        <dl>
           <dt>Fri, 02 Jun 2017</dt>
           <dd><a href="https://www.jonathanmair.com/2017/06/post-truth-anthropology-published-in-anthropology-today/">Post-truth anthropology—published in Anthropology&nbsp;Today</a></dd>
-      </dl>
+        </dl>
+      </section>
     </div>
   </article>
-      <!-- TODO : Body class -->
-    <div id="body-class" style="display: none;" class=""></div>
+    <div class="nav-footer">
+      <nav class="nav-wrapper" aria-label="Footer">
+        <span class="nav-copy">Jonathan Mair &copy; 2023
+        </span>
+        <span class="nav-credits">
 
-    <footer id="footer">
-      <div class="inner">
-        <section class="credits">
-        </section>
-      </div>
-    </footer>
+          <a class="menu-item js-theme" href="#" data-system="System theme" data-dark="Dark theme" data-light="Light theme">
+            <span class="theme-icon"></span><span class="theme-text">System theme</span>
+          </a>
+        </span>
+      </nav>
+    </div>
+
   </section>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+  <script type="text/javascript" src="https://www.jonathanmair.com/theme/js/jquery.fitvids.js"></script>
   <script type="text/javascript" src="https://www.jonathanmair.com/theme/js/script.js"></script>
 
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
@@ -120,5 +147,8 @@
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
 </script>
+
+  <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
 </body>
+
 </html>
