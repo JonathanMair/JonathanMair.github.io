@@ -17,19 +17,18 @@
 <link href="https://www.jonathanmair.com/publications/" rel="canonical" />
 
   <!-- Feed -->
-  <link href="https://www.jonathanmair.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
-    title="Jonathan Mair Full Atom Feed" />
+        <link href="https://www.jonathanmair.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Jonathan Mair Full Atom Feed" />
 
   <link href="https://www.jonathanmair.com/theme/css/style.css" type="text/css" rel="stylesheet" />
 
-  <!-- CSS specified by the user -->
+    <!-- CSS specified by the user -->
 
 
-  <link href="https://www.jonathanmair.com/assets/css/jonathan-mair-anthropology.css" type="text/css" rel="stylesheet" />
+    <link href="https://www.jonathanmair.com/assets/css/jonathan-mair-anthropology.css" type="text/css" rel="stylesheet" />
 
-  <!-- Custom fonts -->
-  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
-  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+    <!-- Custom fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -37,28 +36,6 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
-
-  <script>
-    var siteUrl = 'https://www.jonathanmair.com';
-  </script>
-
-  <script>
-    var localTheme = localStorage.getItem('attila_theme');
-    switch (localTheme) {
-      case 'dark':
-        document.documentElement.classList.add('theme-dark');
-        break;
-      case 'light':
-        document.documentElement.classList.add('theme-light');
-        break;
-      default:
-        break;
-    }
-  </script>
-
-
-
-
 
 
 
@@ -91,14 +68,8 @@
 }
 </script>
 </head>
-
-
-
-
-
-
-
-<body class="page-template">
+<!-- TODO : Body class -->
+<body class="home-template">
 
 <nav id="menu">
   <a class="close-button">Close</a>
@@ -121,16 +92,31 @@
     </ul>
   </div>
 </nav>
-  <section id="wrapper" class="page-wrapper">
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="post-header  has-cover ">
+    <header id="post-header" class="has-cover">
       <div class="inner">
+        <nav id="navigation">
+            <span id="home-button" class="nav-button">
+                <a class="home-button" href="https://www.jonathanmair.com/" aria-label="Home" title="Home">
+                  <i class="ic ic-arrow-left" aria-hidden="true"></i>
+                  <span>Home</span>
+                </a>
+            </span>
+          <span id="menu-button" class="nav-button">
+            <a class="menu-button" aria-label="Menu">
+              <i class="ic ic-menu" aria-hidden="true"></i>
+              <span>Menu</span>
+            </a>
+          </span>
+        </nav>
         <h1 class="post-title">Publications</h1>
-          <div class="post-cover cover">
-            <img src="https://www.jonathanmair.com/assets/images/banner.jpg" alt="Publications" />
-          </div>
+            <div class="post-cover cover" style="background-image: url('https://www.jonathanmair.com/assets/images/banner.jpg')">
+      </div>
     </header>
+
+  <section id="wrapper">
+    <a class="hidden-close"></a>
   <!-- Post content -->
   <main class="content" role="main">
       <article class="post">
@@ -283,24 +269,19 @@ Reviews</span>. <em>Inner Asia</em> <strong>8</strong>, 8.
       </div>
       </article>
   </main>
-    <div class="nav-footer">
-      <nav class="nav-wrapper" aria-label="Footer">
-        <span class="nav-copy">Jonathan Mair &copy; 2023
-        </span>
-        <span class="nav-credits">
+      <!-- TODO : Body class -->
+    <div id="body-class" style="display: none;" class=""></div>
 
-          <a class="menu-item js-theme" href="#" data-system="System theme" data-dark="Dark theme" data-light="Light theme">
-            <span class="theme-icon"></span><span class="theme-text">System theme</span>
-          </a>
-        </span>
-      </nav>
-    </div>
-
+    <footer id="footer">
+      <div class="inner">
+        <section class="credits">
+        </section>
+      </div>
+    </footer>
   </section>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
-  <script type="text/javascript" src="https://www.jonathanmair.com/theme/js/jquery.fitvids.js"></script>
   <script type="text/javascript" src="https://www.jonathanmair.com/theme/js/script.js"></script>
 
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
@@ -320,48 +301,5 @@ Reviews</span>. <em>Inner Asia</em> <strong>8</strong>, 8.
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
 </script>
-
-  <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
-
-<script>
-  $(document).ready(function () {
-    var viewport = $(window);
-    var post = $('.post-content');
-    // Responsive videos with fitVids
-    post.fitVids();
-    // Format code blocks and add line numbers
-    function codestyling() {
-      $('pre code').each(function(i, e) {
-        // Code highlight
-        hljs.highlightElement(e);
-        // No lines for plain text blocks
-        if (!$(this).hasClass('language-text')) {
-          var code = $(this);
-          // Calculate amount of lines
-          var lines = code.html().split(/\n(?!$)/g).length;
-          var numbers = [];
-          if (lines > 1) {
-            lines++;
-          }
-          for (i = 1; i < lines; i++) {
-            numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
-          }
-          code.parent().append('<div class="lines">' + numbers + '</div>');
-        }
-      });
-    }
-
-    // Format code blocks only
-    function codestylingWithoutLineNumbers() {
-      $(".highlight pre").each(function(i, e) {
-        // Code highlight
-        hljs.highlightElement(e);
-      });
-    }
-
-    codestylingWithoutLineNumbers();
-  });
-</script>
 </body>
-
 </html>
