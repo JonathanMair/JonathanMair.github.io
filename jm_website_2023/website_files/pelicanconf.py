@@ -149,7 +149,7 @@ SITEMAP = {
 GOOGLE_ANALYTICS = "G-81JH3X4RG8"
 
 # THEME = "/Users/jonathanmair/Dropbox/coding/python/2023_static_sites/jm_website_2023/theme/attila-2.0"
-THEME = "/Users/jonathanmair/pelican-themes/attila-1.6"
+THEME = "/Users/jonathanmair/pelican-themes/attila-2.0"
 
 ### Theme specific settings
 
