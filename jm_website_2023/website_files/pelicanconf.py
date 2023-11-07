@@ -211,7 +211,7 @@ MENUITEMS = (('Home', '/'),
              ('About', '/about/'),
              ('Anthropology', '/anthropology/'),
              ('Archives','/archive/'),
-             ('Tags', '/tags/'),
+             ('Tags', '/tag/'),
              ('Publications', '/publications/'))
 
 SHOW_ARTICLE_MODIFIED_TIME = False
@@ -228,7 +228,7 @@ SHOW_TAGS_IN_ARTICLE_SUMMARY = True
 COLOR_SCHEME_CSS = 'tomorrow.css'
 
 CSS_OVERRIDE = [
-    'assets/css/jonathan_mair_anthropology.css',
+    'assets/css/jonathan-mair-anthropology.css',
     # 'assets/css/myblog.css'
 ]
 
