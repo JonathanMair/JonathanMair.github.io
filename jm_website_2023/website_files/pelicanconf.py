@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Jonathan Mair'
 SITENAME = u'Jonathan Mair'
 SITESUBTITLE = u'Out of the frying pan.'
-SITEURL = 'https://www.jonathanmair.com'
+SITEURL = 'che'
 
 PATH = 'content'
 
@@ -37,10 +37,10 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+# LINKS = (('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),
+#          ('Jinja2', 'http://jinja.pocoo.org/'),
+#          ('You can modify those links in your config file', '#'),)
 
 
 # Social widget
@@ -72,22 +72,22 @@ EXTRA_PATH_METADATA = {
 }
 
 # Post and Pages path
-ARTICLE_URL = '{date:%Y}-{date:%m}-{date:%d}-{slug}/'
-ARTICLE_SAVE_AS = '{date:%Y}-{date:%m}-{date:%d}-{slug}/index.html'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
-YEAR_ARCHIVE_URL = ''
-YEAR_ARCHIVE_SAVE_AS = ''
-MONTH_ARCHIVE_URL = ''
-MONTH_ARCHIVE_SAVE_AS = ''
+YEAR_ARCHIVE_URL = '{date:%Y}/'
+YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
+MONTH_ARCHIVE_URL = '{date:%Y}/{date:%m}/'
+MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 
 # Tags and Category path
-CATEGORY_URL = '{slug}/'
-CATEGORY_SAVE_AS = '{slug}/index.html'
-CATEGORIES_URL = ''
-CATEGORIES_SAVE_AS = ''
-TAG_URL = ''
-TAG_SAVE_AS = ''
+CATEGORY_URL = 'category/{slug}/'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+CATEGORIES_URL = 'category/'
+CATEGORIES_SAVE_AS = 'category/index.html'
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
 TAGS_URL = 'tag/'
 TAGS_SAVE_AS = 'tag/index.html'
 
@@ -123,7 +123,7 @@ PLUGINS = [
     'sitemap',
     'neighbors',
     'assets',
-    'post_stats',
+    'post_stats'
 ]
 
 IGNORE_FILES = [
@@ -139,7 +139,7 @@ SITEMAP = {
         'pages': 0.5
     },
     'changefreqs': {
-        'articles': 'monthly',
+        'articles': 'daily',
         'indexes': 'daily',
         'pages': 'monthly'
     }
@@ -148,7 +148,8 @@ SITEMAP = {
 # Analytics
 GOOGLE_ANALYTICS = "G-81JH3X4RG8"
 
-THEME = '/Users/jonathanmair/pelican-themes/attila-1.6'
+# THEME = "/Users/jonathanmair/Dropbox/coding/python/2023_static_sites/jm_website_2023/theme/attila-2.0"
+THEME = "/Users/jonathanmair/pelican-themes/attila-1.6"
 
 ### Theme specific settings
 
@@ -185,6 +186,7 @@ CATEGORY_META = {
   }
 }
 
+TAG_CLOUD_STEPS = 10
 
 
 
@@ -209,22 +211,26 @@ MENUITEMS = (('Home', '/'),
              ('About', '/about/'),
              ('Anthropology', '/anthropology/'),
              ('Archives','/archive/'),
-             ('Tags', '/tag/'),
+             ('Tags', '/tags/'),
              ('Publications', '/publications/'))
 
-SHOW_ARTICLE_MODIFIED_TIME = True
+SHOW_ARTICLE_MODIFIED_TIME = False
 SHOW_AUTHOR_BIO_IN_ARTICLE = True
 SHOW_CATEGORIES_ON_MENU = False
 SHOW_COMMENTS_COUNT_IN_ARTICLE_SUMMARY = False
 SHOW_CREDITS = False
-SHOW_FULL_ARTICLE_IN_SUMMARY = True
+SHOW_FULL_ARTICLE_IN_SUMMARY = False
 SHOW_PAGES_ON_MENU = False
 SHOW_SITESUBTITLE_IN_HTML_TITLE = False
 SHOW_TAGS_IN_ARTICLE_SUMMARY = True
 
 
 COLOR_SCHEME_CSS = 'tomorrow.css'
-CSS_OVERRIDE = ['assets/css/myblog.css']
+
+CSS_OVERRIDE = [
+    'assets/css/jonathan_mair_anthropology.css',
+    # 'assets/css/myblog.css'
+]
 
 # Jinja config - Pelican 4
 JINJA_ENVIRONMENT = {
