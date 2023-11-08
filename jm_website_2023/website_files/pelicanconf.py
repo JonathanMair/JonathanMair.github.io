@@ -123,7 +123,8 @@ PLUGINS = [
     'sitemap',
     'neighbors',
     'assets',
-    'post_stats'
+    'post_stats',
+    'pdf'
 ]
 
 IGNORE_FILES = [
@@ -212,7 +213,9 @@ MENUITEMS = (('Home', '/'),
              ('Anthropology', '/anthropology/'),
              ('Archives','/archive/'),
              ('Tags', '/tag/'),
-             ('Publications', '/publications/'))
+             ('Publications', '/publications/'),
+             ('Credits', 'credits')
+             )
 
 SHOW_ARTICLE_MODIFIED_TIME = False
 SHOW_AUTHOR_BIO_IN_ARTICLE = True

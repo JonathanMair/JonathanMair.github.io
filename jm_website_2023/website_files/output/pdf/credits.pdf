@@ -1,0 +1,162 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://getpelican.com)
+>> /Border [ 0 0 0 ] /Rect [ 109.3739 699.5979 126.5886 707.4729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/pelican-plugins/pandoc-reader)
+>> /Border [ 0 0 0 ] /Rect [ 205.6641 699.5979 260.8154 707.4729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/zutrinken/attila)
+>> /Border [ 0 0 0 ] /Rect [ 414.5984 699.5979 448.1564 707.4729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py)
+>> /Border [ 0 0 0 ] /Rect [ 488.1351 699.5979 506.8041 707.4729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pages.github.com)
+>> /Border [ 0 0 0 ] /Rect [ 65.32112 691.7229 95.38262 699.5979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R ] /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/PageLabels 14 0 R /PageMode /UseNone /Pages 12 0 R /Type /Catalog
+>>
+endobj
+11 0 obj
+<<
+/Author () /CreationDate (D:20231108081743-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20231108081743-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Credits) /Trapped /False
+>>
+endobj
+12 0 obj
+<<
+/Count 1 /Kids [ 9 0 R ] /Type /Pages
+>>
+endobj
+13 0 obj
+<<
+/Length 1074
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 741.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 211.7242 0 Td 24 TL /F2 20 Tf .133333 .133333 .133333 rg (Credits) Tj T* -211.7242 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 687.2736 cm
+q
+1 1 1 rg
+n 0 0 481.2283 17.75 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 12.50394 477.0885 6.25 re f*
+.492188 w
+0 0 1 RG
+n 51.35025 12.99612 m 68.565 12.99612 l S
+n 147.6405 12.99612 m 202.7918 12.99612 l S
+n 356.5747 12.99612 m 390.1327 12.99612 l S
+n 430.1115 12.99612 m 448.7805 12.99612 l S
+1 1 1 rg
+n 0 4.628937 38.8185 6.25 re f*
+.492188 w
+0 0 1 RG
+n 7.2975 5.121125 m 37.359 5.121125 l S
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (This site is built using ) Tj 0 0 1 rg (Pelican) Tj 0 0 0 rg (, with a customised version of the ) Tj 0 0 1 rg (Pelican Pandoc Reader) Tj 0 0 0 rg ( plugin for bibliographic functionality and using the Attila theme by ) Tj 0 0 1 rg (Peter Amende) Tj 0 0 0 rg ( and modified by ) Tj 0 0 1 rg (Arul Raj) Tj 0 0 0 rg (. It is hosted) Tj T* (on ) Tj 0 0 1 rg (github pages) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+14 0 obj
+<<
+/Nums [ 0 15 0 R ]
+>>
+endobj
+15 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000330 00000 n 
+0000000504 00000 n 
+0000000704 00000 n 
+0000000891 00000 n 
+0000001111 00000 n 
+0000001287 00000 n 
+0000001534 00000 n 
+0000001623 00000 n 
+0000001888 00000 n 
+0000001948 00000 n 
+0000003074 00000 n 
+0000003115 00000 n 
+trailer
+<<
+/ID 
+[<616cc114af057abca2abb61f6dfb9f56><616cc114af057abca2abb61f6dfb9f56>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 11 0 R
+/Root 10 0 R
+/Size 16
+>>
+startxref
+3149
+%%EOF
