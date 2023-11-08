@@ -25,3 +25,7 @@ pre code {
   position: relative;
   top:180px;
 }
+
+@font-face{
+    font-display: swap;
+}
