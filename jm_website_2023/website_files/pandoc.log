@@ -17,16 +17,10 @@
         "from": "/Users/jonathanmair/Dropbox/System/latexresources/texmf/bibtex/bib/publications.csl"
     },
     {
-        "type": "LoadedResource",
-        "verbosity": "INFO",
-        "for": "/Users/jonathanmair/Dropbox/coding/python/2023_static_sites/jm_website_2023/website_files/content/pages/publications.bib",
-        "from": "/Users/jonathanmair/Dropbox/coding/python/2023_static_sites/jm_website_2023/website_files/content/pages/publications.bib"
-    },
-    {
         "type": "FilterCompleted",
         "verbosity": "INFO",
         "path": "citeproc",
-        "milliseconds": "77"
+        "milliseconds": "3"
     },
     {
         "type": "NoLangSpecified",
