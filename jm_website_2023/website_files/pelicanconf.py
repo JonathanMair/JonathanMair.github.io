@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Jonathan Mair'
 SITENAME = u'Jonathan Mair'
 SITESUBTITLE = u'Out of the frying pan.'
-SITEURL = 'che'
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
@@ -57,7 +57,7 @@ PAGINATION_PATTERNS = (
 )
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 
 STATIC_PATHS = ['assets']
 EXTRA_PATH_METADATA = {
@@ -150,7 +150,7 @@ SITEMAP = {
 GOOGLE_ANALYTICS = "G-81JH3X4RG8"
 
 # THEME = "/Users/jonathanmair/Dropbox/coding/python/2023_static_sites/jm_website_2023/theme/attila-2.0"
-THEME = "/Users/jonathanmair/pelican-themes/attila-1.6"
+THEME = "/Users/jonathanmair/pelican-themes/attila-2.0"
 
 ### Theme specific settings
 
@@ -208,13 +208,30 @@ AUTHORS_BIO = {
   }
 }
 
+# added this as advised by theme author
+AUTHOR_META = {
+  "jonathan mair": {
+    "name": "Jonathan Mair",
+    "cover": "assets/images/banner.jpg",
+    "image": "assets/images/jonathan-mair.jpg",
+    # "website": "https://www.jonathanmair.com",
+    "linkedin": "jonathan-mair-phd",
+    "github": "JonathanMair",
+    "twitter": "urtnas",
+    "location": "Sevilla",
+    "bio": '''Anthropologist, ethnographer, qualitative research designer,
+            social scientist, coder and data ethnusiast. 
+          '''
+  }
+}
+
 MENUITEMS = (('Home', '/'),
              ('About', '/about/'),
-             ('Anthropology', '/anthropology/'),
+             ('Anthropology', '/category/anthropology/'),
              ('Archives','/archive/'),
              ('Tags', '/tag/'),
              ('Publications', '/publications/'),
-             ('Credits', 'credits')
+             ('Credits', '/credits')
              )
 
 SHOW_ARTICLE_MODIFIED_TIME = False
@@ -232,7 +249,7 @@ COLOR_SCHEME_CSS = 'tomorrow.css'
 
 CSS_OVERRIDE = [
     'assets/css/jonathan-mair-anthropology.css',
-    # 'assets/css/myblog.css'
+    'assets/css/myblog.css'
 ]
 
 # Jinja config - Pelican 4
@@ -263,6 +280,6 @@ WITH_FUTURE_DATES = True
 # Comments
 DISQUS_SITENAME = "jonathanmair"
 
-THEME_TEMPLATES_OVERRIDES = ["includes/"]
+# THEME_TEMPLATES_OVERRIDES = ["includes/"]
 
 PAGE_ORDER_BY = 'page_order'

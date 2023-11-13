@@ -6,7 +6,9 @@ tags: belief, evolution, Michael Blume, religion, social science, Talal Asad, Wi
 ...
 
 
-<figure class="wp-caption alignnone" style="width: 220px">[![William Robertson Smith](http://upload.wikimedia.org/wikipedia/commons/6/63/WilliamRobertsonSmith.jpg "William Robertson Smith")](http://en.wikipedia.org/wiki/William_Robertson_Smith)<figcaption class="wp-caption-text">William Robertson Smith (source: Wikipedia)</figcaption></figure>*This is a reply to <del>Martin</del> Michael Blume’s [comment](http://jonathanmair.com/evolution-and-religion/#comment-18) to my previous [post](http://jonathanmair.com/evolution-and-religion/), which was itself was a comment on his blog on [www.scilogs.com](http://www.scilogs.com/nature-of-faith/its-about-fertility-stupid-the-evolutionary-adaptivity-of-religion/).*
+<figure class="wp-caption alignnone" style="width: 220px">[![William Robertson Smith](http://upload.wikimedia.org/wikipedia/commons/6/63/WilliamRobertsonSmith.jpg "William Robertson Smith")](http://en.wikipedia.org/wiki/William_Robertson_Smith)<figcaption class="wp-caption-text">William Robertson Smith (source: Wikipedia)</figcaption></figure>
+
+*This is a reply to <del>Martin</del> Michael Blume’s [comment](http://jonathanmair.com/evolution-and-religion/#comment-18) to my previous [post](http://jonathanmair.com/evolution-and-religion/), which was itself was a comment on his blog on [www.scilogs.com](http://www.scilogs.com/nature-of-faith/its-about-fertility-stupid-the-evolutionary-adaptivity-of-religion/).*
 
 <del>Martin</del> Michael — Thanks for the links (reproduced below) and for engaging with my comment!
 

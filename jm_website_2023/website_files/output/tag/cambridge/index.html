@@ -14,19 +14,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="referrer" content="origin" />
   <meta name="generator" content="Pelican" />
-<link href="../../tag/cambridge/" rel="canonical" />
+<link href="http://localhost:8000/tag/cambridge/" rel="canonical" />
   <!-- Feed -->
 
-  <link href="../../theme/css/style.css" type="text/css" rel="stylesheet" />
+  <link href="http://localhost:8000/theme/css/style.css" type="text/css" rel="stylesheet" />
 
-    <!-- CSS specified by the user -->
+  <!-- CSS specified by the user -->
 
 
-    <link href="../../assets/css/jonathan-mair-anthropology.css" type="text/css" rel="stylesheet" />
+  <link href="http://localhost:8000/assets/css/jonathan-mair-anthropology.css" type="text/css" rel="stylesheet" />
 
-    <!-- Custom fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+
+  <link href="http://localhost:8000/assets/css/myblog.css" type="text/css" rel="stylesheet" />
+
+  <!-- Custom fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -35,113 +38,162 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
 
+  <script>
+    var siteUrl = 'http://localhost:8000';
+  </script>
+
+  <script>
+    var localTheme = localStorage.getItem('attila_theme');
+    switch (localTheme) {
+      case 'dark':
+        document.documentElement.classList.add('theme-dark');
+        break;
+      case 'light':
+        document.documentElement.classList.add('theme-light');
+        break;
+      default:
+        break;
+    }
+  </script>
+
+
+
+
+
 </head>
-<!-- TODO : Body class -->
-<body class="home-template">
 
-<nav id="menu">
-  <a class="close-button">Close</a>
-  <div class="nav-wrapper">
-    <p class="nav-label">Menu</p>
-    <ul>
-          <li><a href="/" role="presentation">Home</a></li>
-          <li><a href="/about/" role="presentation">About</a></li>
-          <li><a href="/anthropology/" role="presentation">Anthropology</a></li>
-          <li><a href="/archive/" role="presentation">Archives</a></li>
-          <li><a href="/tag/" role="presentation">Tags</a></li>
-          <li><a href="/publications/" role="presentation">Publications</a></li>
 
-      <!--
-              <li role="presentation"><a href="../../about/">About</a></li>
-              <li role="presentation"><a href="../../credits/">Credits</a></li>
-              <li role="presentation"><a href="../../publications/">Publications</a></li>
-      -->
 
-    </ul>
+
+
+
+
+<body class="tag-template">
+
+<div class="nav-header">
+  <nav class="nav-wrapper" aria-label="Main">
+<ul>
+
+    <li class="nav-Home " role="presentation"><a href="/"><span>Home</span></a></li>
+    <li class="nav-About " role="presentation"><a href="/about/"><span>About</span></a></li>
+    <li class="nav-Anthropology " role="presentation"><a href="/category/anthropology/"><span>Anthropology</span></a></li>
+    <li class="nav-Archives " role="presentation"><a href="/archive/"><span>Archives</span></a></li>
+    <li class="nav-Tags " role="presentation"><a href="/tag/"><span>Tags</span></a></li>
+    <li class="nav-Publications " role="presentation"><a href="/publications/"><span>Publications</span></a></li>
+    <li class="nav-Credits " role="presentation"><a href="/credits"><span>Credits</span></a></li>
+
+</ul>
+<ul class="nav-meta">
+    <li class="nav-twitter"><a aria-label="Twitter" href="http://twitter.com/urtnas" target="_blank"><i class="icon icon-twitter" aria-hidden="true"></i>
+    <span>Twitter</span>
+    </a></li>
+    <li class="nav-github"><a aria-label="Github" href="https://github.com/JonathanMair" target="_blank"><i class="icon icon-github" aria-hidden="true"></i>
+    <span>Github</span>
+    </a></li>
+  <li class="nav-search" style="display: none;">
+    <a title="Search">
+      <i class="icon icon-search" aria-hidden="true"></i>
+      <span>Search</span>
+    </a>
+  </li>
+</ul>  </nav>
+
+  <div class="nav-wrapper-control">
+    <div class="inner">
+      <a class="nav-menu" role="button"><i class="icon icon-menu" aria-hidden="true"></i>Menu</a>
+      <a class="nav-search" title="Search" role="button" style="display: none;"><i class="icon icon-search" aria-hidden="true"></i></a>
+    </div>
   </div>
-</nav>
+</div>
+<div class="nav-close" role="button" aria-label="Close"></div>
+  <section id="wrapper" class="page-wrapper">
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header id="blog-header" class="has-cover">
+    <header class="blog-header  has-cover ">
       <div class="inner">
-        <nav id="navigation">
-            <span id="home-button" class="nav-button">
-                <a class="home-button" href="../../" aria-label="Home" title="Home">
-                  <i class="ic ic-arrow-left" aria-hidden="true"></i>
-                  <span>Home</span>
-                </a>
+        <div class="archive archive-tag box archive-box">
+          <span class="archive-info">
+            <span class="archive-type">Tag</span>
+            <span class="archive-count">
+            1 Post
             </span>
-          <span id="menu-button" class="nav-button">
-            <a class="menu-button" aria-label="Menu">
-              <i class="ic ic-menu" aria-hidden="true"></i>
-              <span>Menu</span>
-            </a>
           </span>
-        </nav>
-        <h1 class="post-title">Tag cambridge</h1>
-        <span class="blog-description">Posts: 1</span>
-          <div class="blog-cover cover" style="background-image: url('../../assets/images/banner-jonathan-mair.jpg')">
+          <h2 class="archive-title">Cambridge</h2>
+        </div>
+
+          <div class="blog-cover cover">
+            <img src="http://localhost:8000/assets/images/banner-jonathan-mair.jpg" alt="Tag cambridge" />
+          </div>
       </div>
     </header>
-
-  <section id="wrapper">
-    <a class="hidden-close"></a>
 
 <div id="index" class="container">
   <main class="content" role="main">
     <div class="extra-pagination">
-<nav class="pagination" role="pagination">
+<nav class="pagination" aria-label="Pagination" role="pagination">
   <div class="inner">
-    <span class="pagination-info">Page 1 / 1</span>
-    <div class="clear"></div>
+    <div class="box pagination-box">
+      <span class="pagination-info">Page 1 of 1</span>
+    </div>
   </div>
 </nav>
     </div>
 
-        <article class="post">
+
+
+    <article class="post">
         <div class="inner">
-            <header class="post-header">
-                <h2 class="post-title"><a href="../../2013/12/speaking-ethically-across-borders-conference-registration-open/" rel="bookmark" title="Permalink to Speaking Ethically Across Borders Conference: Registration Open!">Speaking Ethically Across Borders Conference: Registration&nbsp;Open!</a>
+            <div class="box post-box">
+                <h2 class="post-title"><a href="http://localhost:8000/2013/12/speaking-ethically-across-borders-conference-registration-open/" rel="bookmark" title="Permalink to Speaking Ethically Across Borders Conference: Registration Open!">Speaking Ethically Across Borders Conference: Registration&nbsp;Open!</a>
                 </h2>
                 <span class="post-meta">
-                        <a href="../../author/jonathan-mair/">Jonathan Mair</a>
-                     | <time datetime="Wed, 11 Dec 2013">Wed, 11 Dec 2013</time>
+                    By 
+                        <a class="post-meta-tag" href="http://localhost:8000/author/jonathan-mair/">Jonathan Mair</a>
+                     in 
+                    <a class="post-meta-tag" href="http://localhost:8000/category/anthropology/">Anthropology</a>
+                      on <time datetime="Wed, 11 Dec 2013">Wed, 11 Dec 2013</time>
                 </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
+                <p class="post-excerpt">
                         Registration is now open for the conference: Speaking Ethically Across Borders: Interdisciplinary Approaches 8-10 January 2014 CRASSH, University of Cambridge With lectures by: Michael Lambek (Toronto) and Simon Coleman (Toronto). Including...
-                    </p>
-                </section>
-<p>
-  <a data-disqus-identifier="/2013/12/speaking-ethically-across-borders-conference-registration-open/" href="../../2013/12/speaking-ethically-across-borders-conference-registration-open/#disqus_thread">comments</a>
-</p>
-            </div>
-        </article>
+                </p>
 
-<nav class="pagination" role="pagination">
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="http://localhost:8000/tag/anthropology/">anthropology</a><a href="http://localhost:8000/tag/cambridge/">cambridge</a><a href="http://localhost:8000/tag/coleman/">coleman</a>                    </aside>
+                </div>
+            </div>
+        </div>
+    </article>
+
+<nav class="pagination" aria-label="Pagination" role="pagination">
   <div class="inner">
-    <span class="pagination-info">Page 1 / 1</span>
-    <div class="clear"></div>
+    <div class="box pagination-box">
+      <span class="pagination-info">Page 1 of 1</span>
+    </div>
   </div>
 </nav>
   </main>
 </div>
-      <!-- TODO : Body class -->
-    <div id="body-class" style="display: none;" class=""></div>
+    <div class="nav-footer">
+      <nav class="nav-wrapper" aria-label="Footer">
+        <span class="nav-copy">Jonathan Mair &copy; 2023
+        </span>
+        <span class="nav-credits">
 
-    <footer id="footer">
-      <div class="inner">
-        <section class="credits">
-        </section>
-      </div>
-    </footer>
+          <a class="menu-item js-theme" href="#" data-system="System theme" data-dark="Dark theme" data-light="Light theme">
+            <span class="theme-icon"></span><span class="theme-text">System theme</span>
+          </a>
+        </span>
+      </nav>
+    </div>
+
   </section>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
-  <script type="text/javascript" src="../../theme/js/script.js"></script>
+  <script type="text/javascript" src="http://localhost:8000/theme/js/jquery.fitvids.js"></script>
+  <script type="text/javascript" src="http://localhost:8000/theme/js/script.js"></script>
 
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-81JH3X4RG8"></script>
@@ -160,5 +212,8 @@
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
 </script>
+
+  <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
 </body>
+
 </html>

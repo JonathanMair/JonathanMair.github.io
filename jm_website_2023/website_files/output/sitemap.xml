@@ -4,1142 +4,1142 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>che/</loc>
-<lastmod>2023-11-08T08:17:28-00:00</lastmod>
+<loc>http://localhost:8000/</loc>
+<lastmod>2023-11-13T07:42:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/</loc>
-<lastmod>2023-11-08T08:17:28-00:00</lastmod>
+<loc>http://localhost:8000/tag/</loc>
+<lastmod>2023-11-13T07:42:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/category/</loc>
-<lastmod>2023-11-08T08:17:28-00:00</lastmod>
+<loc>http://localhost:8000/category/</loc>
+<lastmod>2023-11-13T07:42:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/archive/</loc>
-<lastmod>2023-11-08T08:17:28-00:00</lastmod>
+<loc>http://localhost:8000/archive/</loc>
+<lastmod>2023-11-13T07:42:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/about/</loc>
+<loc>http://localhost:8000/about/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/credits/</loc>
+<loc>http://localhost:8000/credits/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/publications/</loc>
+<loc>http://localhost:8000/publications/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2023/06/oscar-kruger-article-whats-in-a-container/</loc>
+<loc>http://localhost:8000/2023/06/oscar-kruger-article-whats-in-a-container/</loc>
 <lastmod>2023-06-15T16:26:59+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2017/06/post-truth-anthropology-published-in-anthropology-today/</loc>
+<loc>http://localhost:8000/2017/06/post-truth-anthropology-published-in-anthropology-today/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2016/04/schumachers-buddhist-economics/</loc>
+<loc>http://localhost:8000/2016/04/schumachers-buddhist-economics/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2015/08/needhams-review-of-paul-veynes-did-the-greeks-believe-in-their-myths/</loc>
+<loc>http://localhost:8000/2015/08/needhams-review-of-paul-veynes-did-the-greeks-believe-in-their-myths/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2015/08/rodney-needham-and-paul-veyne-on-religious-belief/</loc>
+<loc>http://localhost:8000/2015/08/rodney-needham-and-paul-veyne-on-religious-belief/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2015/07/the-meaning-and-end-of-religion/</loc>
+<loc>http://localhost:8000/2015/07/the-meaning-and-end-of-religion/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2015/07/neoliberalism-as-conceptual-trash-heap/</loc>
+<loc>http://localhost:8000/2015/07/neoliberalism-as-conceptual-trash-heap/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2014/01/announcing-ignorance-studies-listserv/</loc>
+<loc>http://localhost:8000/2014/01/announcing-ignorance-studies-listserv/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2013/12/speaking-ethically-across-borders-conference-registration-open/</loc>
+<loc>http://localhost:8000/2013/12/speaking-ethically-across-borders-conference-registration-open/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2013/06/abby-days-believing-in-belonging-review/</loc>
+<loc>http://localhost:8000/2013/06/abby-days-believing-in-belonging-review/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2013/04/cultures-of-belief-post-print-version-of-article/</loc>
+<loc>http://localhost:8000/2013/04/cultures-of-belief-post-print-version-of-article/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2013/04/cultures-of-belief-new-paper-out-in-anthropological-theory/</loc>
+<loc>http://localhost:8000/2013/04/cultures-of-belief-new-paper-out-in-anthropological-theory/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2013/04/literacy-religious-renaissance-and-the-morality-system/</loc>
+<loc>http://localhost:8000/2013/04/literacy-religious-renaissance-and-the-morality-system/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2013/03/new-blog-ethicscrassh/</loc>
+<loc>http://localhost:8000/2013/03/new-blog-ethicscrassh/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2013/01/stuart-hall-on-rootless-cosmopolitanism/</loc>
+<loc>http://localhost:8000/2013/01/stuart-hall-on-rootless-cosmopolitanism/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2013/01/rooted-cosmopolitanism/</loc>
+<loc>http://localhost:8000/2013/01/rooted-cosmopolitanism/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/12/alastair-macintyre-on-the-moral-instrumental-division-of-the-modern-world/</loc>
+<loc>http://localhost:8000/2012/12/alastair-macintyre-on-the-moral-instrumental-division-of-the-modern-world/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/12/neoliberal-is-henceforth-dead-to-me/</loc>
+<loc>http://localhost:8000/2012/12/neoliberal-is-henceforth-dead-to-me/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/12/new-sociology-of-ignorance-web-resource/</loc>
+<loc>http://localhost:8000/2012/12/new-sociology-of-ignorance-web-resource/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/12/crassh-project-speaking-ethically-across-borders/</loc>
+<loc>http://localhost:8000/2012/12/crassh-project-speaking-ethically-across-borders/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/12/cross-cultural-conversations-at-cross-purposes/</loc>
+<loc>http://localhost:8000/2012/12/cross-cultural-conversations-at-cross-purposes/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/12/gdat-neoliberalism-anthropology/</loc>
+<loc>http://localhost:8000/2012/12/gdat-neoliberalism-anthropology/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/11/evolution-and-religion-part-iii/</loc>
+<loc>http://localhost:8000/2012/11/evolution-and-religion-part-iii/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/11/evolution-and-religion-part-ii/</loc>
+<loc>http://localhost:8000/2012/11/evolution-and-religion-part-ii/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/11/evolution-and-religion/</loc>
+<loc>http://localhost:8000/2012/11/evolution-and-religion/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/10/ignorance-and-power-critical-studies-in-education-503/</loc>
+<loc>http://localhost:8000/2012/10/ignorance-and-power-critical-studies-in-education-503/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/10/ignorance-mobilization-joanne-gaudet/</loc>
+<loc>http://localhost:8000/2012/10/ignorance-mobilization-joanne-gaudet/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/07/paul-stoller-social-engineering-and-the-politics-of-ignorance/</loc>
+<loc>http://localhost:8000/2012/07/paul-stoller-social-engineering-and-the-politics-of-ignorance/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/05/cultures-of-ignorance-cfp-17th-world-congress-of-the-iuaes-manchester-2013/</loc>
+<loc>http://localhost:8000/2012/05/cultures-of-ignorance-cfp-17th-world-congress-of-the-iuaes-manchester-2013/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/05/highly-recommended-laszlo-montgomerys-the-china-history-podcast/</loc>
+<loc>http://localhost:8000/2012/05/highly-recommended-laszlo-montgomerys-the-china-history-podcast/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/05/bbc-radio-4-great-lives-on-edward-said/</loc>
+<loc>http://localhost:8000/2012/05/bbc-radio-4-great-lives-on-edward-said/</loc>
 <lastmod>2023-06-14T08:32:30+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/2012/04/the-anthropology-of-ignorance/</loc>
-<lastmod>2023-06-14T08:32:30+02:00</lastmod>
+<loc>http://localhost:8000/2012/04/the-anthropology-of-ignorance/</loc>
+<lastmod>2023-11-13T07:38:33+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/category/anthropology/</loc>
+<loc>http://localhost:8000/category/anthropology/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://localhost:8000/category/china/</loc>
+<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://localhost:8000/category/ignorance/</loc>
+<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://localhost:8000/category/teaching/</loc>
+<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://localhost:8000/tag/business/</loc>
 <lastmod>2023-06-15T16:26:59-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/category/china/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>che/category/ignorance/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>che/category/teaching/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>che/tag/business/</loc>
+<loc>http://localhost:8000/tag/consumption/</loc>
 <lastmod>2023-06-15T16:26:59-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/consumption/</loc>
+<loc>http://localhost:8000/tag/production/</loc>
 <lastmod>2023-06-15T16:26:59-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/production/</loc>
+<loc>http://localhost:8000/tag/wine/</loc>
 <lastmod>2023-06-15T16:26:59-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/wine/</loc>
+<loc>http://localhost:8000/tag/ethnography/</loc>
 <lastmod>2023-06-15T16:26:59-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/ethnography/</loc>
-<lastmod>2023-06-15T16:26:59-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>che/tag/anthropology-today/</loc>
+<loc>http://localhost:8000/tag/anthropology-today/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/ignorance/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/ignorance/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/post-truth-anthropology/</loc>
+<loc>http://localhost:8000/tag/post-truth-anthropology/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/belief/</loc>
+<loc>http://localhost:8000/tag/belief/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/metacognition/</loc>
+<loc>http://localhost:8000/tag/metacognition/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/post-truth/</loc>
+<loc>http://localhost:8000/tag/post-truth/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/buddhism/</loc>
+<loc>http://localhost:8000/tag/buddhism/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/buddhist-economics/</loc>
+<loc>http://localhost:8000/tag/buddhist-economics/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/schumacher/</loc>
+<loc>http://localhost:8000/tag/schumacher/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/southwold/</loc>
+<loc>http://localhost:8000/tag/southwold/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/anthropology/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/anthropology/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/belief-scepticism/</loc>
+<loc>http://localhost:8000/tag/belief-scepticism/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/ethnography-of-belief/</loc>
+<loc>http://localhost:8000/tag/ethnography-of-belief/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/paul-veyne/</loc>
+<loc>http://localhost:8000/tag/paul-veyne/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/religion/</loc>
+<loc>http://localhost:8000/tag/religion/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/rodney-needham/</loc>
+<loc>http://localhost:8000/tag/rodney-needham/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/anthropology-of-belief/</loc>
+<loc>http://localhost:8000/tag/anthropology-of-belief/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/greek-myth/</loc>
+<loc>http://localhost:8000/tag/greek-myth/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/intellectualism/</loc>
+<loc>http://localhost:8000/tag/intellectualism/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/programmes-of-truth/</loc>
+<loc>http://localhost:8000/tag/programmes-of-truth/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/regimes-of-belief/</loc>
+<loc>http://localhost:8000/tag/regimes-of-belief/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/truth/</loc>
+<loc>http://localhost:8000/tag/truth/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/debate/</loc>
+<loc>http://localhost:8000/tag/debate/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/gdat/</loc>
+<loc>http://localhost:8000/tag/gdat/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/neoliberalism/</loc>
+<loc>http://localhost:8000/tag/neoliberalism/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/sociology/</loc>
+<loc>http://localhost:8000/tag/sociology/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/cambridge/</loc>
+<loc>http://localhost:8000/tag/cambridge/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/coleman/</loc>
+<loc>http://localhost:8000/tag/coleman/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/conference/</loc>
+<loc>http://localhost:8000/tag/conference/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/ethics/</loc>
+<loc>http://localhost:8000/tag/ethics/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/lambek/</loc>
+<loc>http://localhost:8000/tag/lambek/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/philosophy/</loc>
+<loc>http://localhost:8000/tag/philosophy/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/anthropology-of-ethics/</loc>
+<loc>http://localhost:8000/tag/anthropology-of-ethics/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/ethics-across-borders/</loc>
+<loc>http://localhost:8000/tag/ethics-across-borders/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/abby-day/</loc>
+<loc>http://localhost:8000/tag/abby-day/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/census/</loc>
+<loc>http://localhost:8000/tag/census/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/christianity/</loc>
+<loc>http://localhost:8000/tag/christianity/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/fate/</loc>
+<loc>http://localhost:8000/tag/fate/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/ghosts/</loc>
+<loc>http://localhost:8000/tag/ghosts/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/uk/</loc>
+<loc>http://localhost:8000/tag/uk/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/evangelicals/</loc>
+<loc>http://localhost:8000/tag/evangelicals/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/gods/</loc>
+<loc>http://localhost:8000/tag/gods/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/greece/</loc>
+<loc>http://localhost:8000/tag/greece/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/judaism/</loc>
+<loc>http://localhost:8000/tag/judaism/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/maimonides/</loc>
+<loc>http://localhost:8000/tag/maimonides/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/felicitas-becker/</loc>
+<loc>http://localhost:8000/tag/felicitas-becker/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/funerary-practice/</loc>
+<loc>http://localhost:8000/tag/funerary-practice/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/islam/</loc>
+<loc>http://localhost:8000/tag/islam/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/islamism/</loc>
+<loc>http://localhost:8000/tag/islamism/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/morality-system/</loc>
+<loc>http://localhost:8000/tag/morality-system/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/sufism/</loc>
+<loc>http://localhost:8000/tag/sufism/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/tanzania/</loc>
+<loc>http://localhost:8000/tag/tanzania/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/virtue-ethics/</loc>
+<loc>http://localhost:8000/tag/virtue-ethics/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/cosmopolitanism/</loc>
+<loc>http://localhost:8000/tag/cosmopolitanism/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/pnina-werbner/</loc>
+<loc>http://localhost:8000/tag/pnina-werbner/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/stuart-hall/</loc>
+<loc>http://localhost:8000/tag/stuart-hall/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/bryan-turner/</loc>
+<loc>http://localhost:8000/tag/bryan-turner/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/gandhi/</loc>
+<loc>http://localhost:8000/tag/gandhi/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/martha-nussbaum/</loc>
+<loc>http://localhost:8000/tag/martha-nussbaum/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/martin-luther-king/</loc>
+<loc>http://localhost:8000/tag/martin-luther-king/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/alasdair-macintyre/</loc>
+<loc>http://localhost:8000/tag/alasdair-macintyre/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/emotivism/</loc>
+<loc>http://localhost:8000/tag/emotivism/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/kathleen-fitzpatrick/</loc>
+<loc>http://localhost:8000/tag/kathleen-fitzpatrick/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/neoliberal-university/</loc>
+<loc>http://localhost:8000/tag/neoliberal-university/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/crassh/</loc>
+<loc>http://localhost:8000/tag/crassh/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/inter-disciplinarity/</loc>
+<loc>http://localhost:8000/tag/inter-disciplinarity/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/china/</loc>
+<loc>http://localhost:8000/tag/china/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/conversations-at-cross-purposes/</loc>
+<loc>http://localhost:8000/tag/conversations-at-cross-purposes/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/inner-mongolia/</loc>
+<loc>http://localhost:8000/tag/inner-mongolia/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/missionaries/</loc>
+<loc>http://localhost:8000/tag/missionaries/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/self-cultivation/</loc>
+<loc>http://localhost:8000/tag/self-cultivation/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/james-laidlaw/</loc>
+<loc>http://localhost:8000/tag/james-laidlaw/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/keir-martin/</loc>
+<loc>http://localhost:8000/tag/keir-martin/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/manchester/</loc>
+<loc>http://localhost:8000/tag/manchester/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/thomas-hylland-eriksen/</loc>
+<loc>http://localhost:8000/tag/thomas-hylland-eriksen/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/bruno-latour/</loc>
+<loc>http://localhost:8000/tag/bruno-latour/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/charles-taylor/</loc>
+<loc>http://localhost:8000/tag/charles-taylor/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/evolution/</loc>
+<loc>http://localhost:8000/tag/evolution/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/marcel-mauss/</loc>
+<loc>http://localhost:8000/tag/marcel-mauss/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/michael-blume/</loc>
+<loc>http://localhost:8000/tag/michael-blume/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/mongolia/</loc>
+<loc>http://localhost:8000/tag/mongolia/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/soviet-union/</loc>
+<loc>http://localhost:8000/tag/soviet-union/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/talal-asad/</loc>
+<loc>http://localhost:8000/tag/talal-asad/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/social-science/</loc>
+<loc>http://localhost:8000/tag/social-science/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/william-robertson-smith/</loc>
+<loc>http://localhost:8000/tag/william-robertson-smith/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/paul-stoller/</loc>
+<loc>http://localhost:8000/tag/paul-stoller/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/politics/</loc>
+<loc>http://localhost:8000/tag/politics/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/usa/</loc>
+<loc>http://localhost:8000/tag/usa/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/call-for-papers/</loc>
+<loc>http://localhost:8000/tag/call-for-papers/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/iuaes/</loc>
+<loc>http://localhost:8000/tag/iuaes/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/jenny-diggins/</loc>
+<loc>http://localhost:8000/tag/jenny-diggins/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/history/</loc>
+<loc>http://localhost:8000/tag/history/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/podcast/</loc>
+<loc>http://localhost:8000/tag/podcast/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/recommended/</loc>
+<loc>http://localhost:8000/tag/recommended/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/edward-said/</loc>
+<loc>http://localhost:8000/tag/edward-said/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/orientalism/</loc>
+<loc>http://localhost:8000/tag/orientalism/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/teaching/</loc>
+<loc>http://localhost:8000/tag/teaching/</loc>
 <lastmod>2023-06-14T08:32:30-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/almsgiving/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/almsgiving/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/amazon/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/amazon/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/ann-kelly/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/ann-kelly/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/argentina/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/argentina/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/biography/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/biography/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/book/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/book/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/casey-high/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/casey-high/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/fertility/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/fertility/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/greenland/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/greenland/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/housing/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/housing/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/japan/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/japan/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/networking/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/networking/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/nrt/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/nrt/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/senegal/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/senegal/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/shamanism/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/shamanism/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/suicide/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/suicide/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/tag/the-gift/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<loc>http://localhost:8000/tag/the-gift/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>che/author/jonathan-mair/</loc>
-<lastmod>2023-06-15T16:26:59-00:15</lastmod>
+<loc>http://localhost:8000/author/jonathan-mair/</loc>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

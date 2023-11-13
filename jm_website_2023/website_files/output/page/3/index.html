@@ -14,19 +14,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="referrer" content="origin" />
   <meta name="generator" content="Pelican" />
-<link href="../../" rel="canonical" />
+  <link href="http://localhost:8000/" rel="canonical" />
+
   <!-- Feed -->
 
-  <link href="../../theme/css/style.css" type="text/css" rel="stylesheet" />
+  <link href="http://localhost:8000/theme/css/style.css" type="text/css" rel="stylesheet" />
 
-    <!-- CSS specified by the user -->
+  <!-- CSS specified by the user -->
 
 
-    <link href="../../assets/css/jonathan-mair-anthropology.css" type="text/css" rel="stylesheet" />
+  <link href="http://localhost:8000/assets/css/jonathan-mair-anthropology.css" type="text/css" rel="stylesheet" />
 
-    <!-- Custom fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+
+  <link href="http://localhost:8000/assets/css/myblog.css" type="text/css" rel="stylesheet" />
+
+  <!-- Custom fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -34,6 +38,28 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
+
+  <script>
+    var siteUrl = 'http://localhost:8000';
+  </script>
+
+  <script>
+    var localTheme = localStorage.getItem('attila_theme');
+    switch (localTheme) {
+      case 'dark':
+        document.documentElement.classList.add('theme-dark');
+        break;
+      case 'light':
+        document.documentElement.classList.add('theme-light');
+        break;
+      default:
+        break;
+    }
+  </script>
+
+
+
+
 
 
 
@@ -44,323 +70,395 @@
 <meta prefix="og: http://ogp.me/ns#" property="og:title" content="Jonathan Mair"/>
 <meta prefix="og: http://ogp.me/ns#" property="og:description" content="Out of the frying pan."/>
 <meta prefix="og: http://ogp.me/ns#" property="og:locale" content="en_US"/>
-<meta prefix="og: http://ogp.me/ns#" property="og:url" content="../../"/>
-<meta prefix="og: http://ogp.me/ns#" property="og:image" content="../../assets/images/banner-jonathan-mair.jpg">
+<meta prefix="og: http://ogp.me/ns#" property="og:url" content="http://localhost:8000/"/>
+<meta prefix="og: http://ogp.me/ns#" property="og:image" content="http://localhost:8000/assets/images/banner-jonathan-mair.jpg">
 
 <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@urtnas">
   <meta name="twitter:title" content="Jonathan Mair">
   <meta name="twitter:description" content="Out of the frying pan.">
-  <meta name="twitter:url" content="../../">
-  <meta name="twitter:image:src" content="../../assets/images/banner-jonathan-mair.jpg">
+  <meta name="twitter:url" content="http://localhost:8000/">
+  <meta name="twitter:image:src" content="http://localhost:8000/assets/images/banner-jonathan-mair.jpg">
 
 <script type="application/ld+json">
 {
   "@context" : "http://schema.org",
   "@type" : "Website",
   "name": " Jonathan Mair ",
-  "url" : "../../",
-  "image": "../../assets/images/banner-jonathan-mair.jpg",
+  "url" : "http://localhost:8000/",
+  "image": "http://localhost:8000/assets/images/banner-jonathan-mair.jpg",
   "description": "Out of the frying pan."
 }
 </script>
 </head>
-<!-- TODO : Body class -->
+
+
+
+
+
+
+
 <body class="home-template">
 
-<nav id="menu">
-  <a class="close-button">Close</a>
-  <div class="nav-wrapper">
-    <p class="nav-label">Menu</p>
-    <ul>
-          <li><a href="/" role="presentation">Home</a></li>
-          <li><a href="/about/" role="presentation">About</a></li>
-          <li><a href="/anthropology/" role="presentation">Anthropology</a></li>
-          <li><a href="/archive/" role="presentation">Archives</a></li>
-          <li><a href="/tag/" role="presentation">Tags</a></li>
-          <li><a href="/publications/" role="presentation">Publications</a></li>
+<div class="nav-header">
+  <nav class="nav-wrapper" aria-label="Main">
+<ul>
 
-      <!--
-              <li role="presentation"><a href="../../about/">About</a></li>
-              <li role="presentation"><a href="../../credits/">Credits</a></li>
-              <li role="presentation"><a href="../../publications/">Publications</a></li>
-      -->
+    <li class="nav-Home active" role="presentation"><a href="/"><span>Home</span></a></li>
+    <li class="nav-About " role="presentation"><a href="/about/"><span>About</span></a></li>
+    <li class="nav-Anthropology " role="presentation"><a href="/category/anthropology/"><span>Anthropology</span></a></li>
+    <li class="nav-Archives " role="presentation"><a href="/archive/"><span>Archives</span></a></li>
+    <li class="nav-Tags " role="presentation"><a href="/tag/"><span>Tags</span></a></li>
+    <li class="nav-Publications " role="presentation"><a href="/publications/"><span>Publications</span></a></li>
+    <li class="nav-Credits " role="presentation"><a href="/credits"><span>Credits</span></a></li>
 
-    </ul>
+</ul>
+<ul class="nav-meta">
+    <li class="nav-twitter"><a aria-label="Twitter" href="http://twitter.com/urtnas" target="_blank"><i class="icon icon-twitter" aria-hidden="true"></i>
+    <span>Twitter</span>
+    </a></li>
+    <li class="nav-github"><a aria-label="Github" href="https://github.com/JonathanMair" target="_blank"><i class="icon icon-github" aria-hidden="true"></i>
+    <span>Github</span>
+    </a></li>
+  <li class="nav-search" style="display: none;">
+    <a title="Search">
+      <i class="icon icon-search" aria-hidden="true"></i>
+      <span>Search</span>
+    </a>
+  </li>
+</ul>  </nav>
+
+  <div class="nav-wrapper-control">
+    <div class="inner">
+      <a class="nav-menu" role="button"><i class="icon icon-menu" aria-hidden="true"></i>Menu</a>
+      <a class="nav-search" title="Search" role="button" style="display: none;"><i class="icon icon-search" aria-hidden="true"></i></a>
+    </div>
   </div>
-</nav>
+</div>
+<div class="nav-close" role="button" aria-label="Close"></div>
+  <section id="wrapper" class="page-wrapper">
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header id="blog-header" class="has-cover">
+    <header class="blog-header  has-cover ">
       <div class="inner">
-        <nav id="navigation">
-          <span id="menu-button" class="nav-button">
-            <a class="menu-button" aria-label="Menu">
-              <i class="ic ic-menu" aria-hidden="true"></i>
-              <span>Menu</span>
-            </a>
-          </span>
-        </nav>
-        <h1 class="blog-name"><a href="../../">Jonathan Mair</a></h1>
-        <span class="blog-description">Out of the frying pan.</span>
+        <div class="box blog-box">
+          <h1 class="blog-name">Jonathan Mair</h1>
+          <span class="blog-description">Out of the frying pan.</span>
+        </div>
 
-          <div class="blog-cover cover" style="background-image: url('../../assets/images/banner-jonathan-mair.jpg')">
+          <div class="blog-cover cover">
+            <img src="http://localhost:8000/assets/images/banner-jonathan-mair.jpg" alt="Jonathan Mair" />
+          </div>
       </div>
     </header>
 
 
-  <section id="wrapper">
-    <a class="hidden-close"></a>
-
 <div id="index" class="container">
   <main class="content" role="main">
     <div class="extra-pagination">
-<nav class="pagination" role="pagination">
+<nav class="pagination" aria-label="Pagination" role="pagination">
   <div class="inner">
-    <a class="pagination-next" href="../../page/2/"><i class="ic ic-arrow-left"></i> <span class="pagination-label">Newer Posts</span></a>
-    <span class="pagination-info">Page 3 / 4</span>
-    <a class="pagination-prev" href="../../page/4/"><span class="pagination-label">Older Posts</span> <i class="ic ic-arrow-right"></i></a>
-    <div class="clear"></div>
+    <div class="box pagination-box">
+      <a title="Newer Posts" class="pagination-next" href="http://localhost:8000/page/2/"><i class="icon icon-arrow-left"></i> <span class="pagination-label">Newer Posts</span></a>
+      <span class="pagination-info">Page 3 of 4</span>
+      <a title="Older Posts" class="pagination-prev" href="http://localhost:8000/page/4/"><span class="pagination-label">Older Posts</span> <i class="icon icon-arrow-right"></i></a>
+    </div>
   </div>
 </nav>
     </div>
 
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">
-                <h2 class="post-title"><a href="../../2012/12/cross-cultural-conversations-at-cross-purposes/" rel="bookmark" title="Permalink to Cross-cultural conversations at cross-purposes">Cross-cultural conversations at&nbsp;cross-purposes</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="../../author/jonathan-mair/">Jonathan Mair</a>
-                     | <time datetime="Wed, 05 Dec 2012">Wed, 05 Dec 2012</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        Part of my argument in the recent neoliberalism debate was that, evidence of discontent about any aspect, be it ever so narrow, of what have been identified as neoliberal transformations is taken, without further justification, as a rejection of...
-                    </p>
-                </section>
-<p>
-  <a data-disqus-identifier="/2012/12/cross-cultural-conversations-at-cross-purposes/" href="../../2012/12/cross-cultural-conversations-at-cross-purposes/#disqus_thread">comments</a>
-</p>
-            </div>
-        </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">
-                <h2 class="post-title"><a href="../../2012/12/gdat-neoliberalism-anthropology/" rel="bookmark" title="Permalink to GDAT 2012: Debating “neoliberalism”"><span class="caps">GDAT</span> 2012: Debating&nbsp;“neoliberalism”</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="../../author/jonathan-mair/">Jonathan Mair</a>
-                     | <time datetime="Wed, 05 Dec 2012">Wed, 05 Dec 2012</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        On Saturday I had the pleasure of taking part in GDAT, an annual debate on anthropological theory hosted by Manchester University. GDAT, the Group for Debates in Anthropological Theory, was started in the late 80s by Tim Ingold, and has been...
-                    </p>
-                </section>
-<p>
-  <a data-disqus-identifier="/2012/12/gdat-neoliberalism-anthropology/" href="../../2012/12/gdat-neoliberalism-anthropology/#disqus_thread">comments</a>
-</p>
-            </div>
-        </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">
-                <h2 class="post-title"><a href="../../2012/11/evolution-and-religion-part-iii/" rel="bookmark" title="Permalink to Evolution and Religion Part III">Evolution and Religion Part <span class="caps">III</span></a>
-                </h2>
-                <span class="post-meta">
-                        <a href="../../author/jonathan-mair/">Jonathan Mair</a>
-                     | <time datetime="Sun, 18 Nov 2012">Sun, 18 Nov 2012</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        Dear Michael, Thanks again for taking the time to engage with me earlier. Sorry that this is a bit of a long reply… In your comment you note: the fundamental questions remains: Why are only “religious” communities able to augment this in-group...
-                    </p>
-                </section>
-<p>
-  <a data-disqus-identifier="/2012/11/evolution-and-religion-part-iii/" href="../../2012/11/evolution-and-religion-part-iii/#disqus_thread">comments</a>
-</p>
-            </div>
-        </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">
-                <h2 class="post-title"><a href="../../2012/11/evolution-and-religion-part-ii/" rel="bookmark" title="Permalink to Evolution and Religion Part II">Evolution and Religion Part <span class="caps">II</span></a>
-                </h2>
-                <span class="post-meta">
-                        <a href="../../author/jonathan-mair/">Jonathan Mair</a>
-                     | <time datetime="Sun, 18 Nov 2012">Sun, 18 Nov 2012</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        William Robertson Smith (source: Wikipedia) This is a reply to Martin Michael Blume’s comment to my previous post, which was itself was a comment on his blog on www.scilogs.com. Martin Michael — Thanks for the links (reproduced below) and for...
-                    </p>
-                </section>
-<p>
-  <a data-disqus-identifier="/2012/11/evolution-and-religion-part-ii/" href="../../2012/11/evolution-and-religion-part-ii/#disqus_thread">comments</a>
-</p>
-            </div>
-        </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">
-                <h2 class="post-title"><a href="../../2012/11/evolution-and-religion/" rel="bookmark" title="Permalink to Evolution and Religion">Evolution and&nbsp;Religion</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="../../author/jonathan-mair/">Jonathan Mair</a>
-                     | <time datetime="Fri, 16 Nov 2012">Fri, 16 Nov 2012</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        The explanatory power of evolutionary theory is clear. However, these days, people seem to rush to evolutionary explanations for all sorts of real and perceived human behaviours. The danger of doing this is that in going straight to the question...
-                    </p>
-                </section>
-<p>
-  <a data-disqus-identifier="/2012/11/evolution-and-religion/" href="../../2012/11/evolution-and-religion/#disqus_thread">comments</a>
-</p>
-            </div>
-        </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">
-                <h2 class="post-title"><a href="../../2012/10/ignorance-and-power-critical-studies-in-education-503/" rel="bookmark" title="Permalink to Ignorance and Power, Critical Studies in Education 50(3)">Ignorance and Power, Critical Studies in Education&nbsp;50(3)</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="../../author/jonathan-mair/">Jonathan Mair</a>
-                     | <time datetime="Wed, 31 Oct 2012">Wed, 31 Oct 2012</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        Here’a another exercise in the anthropology of ignorance, this time focused on ignorance in education — a special issue of Critical Studies in Education from 2009. The introduction, by Neriko Musha Doerr explains: While resonating with Bourdieu’s...
-                    </p>
-                </section>
-<p>
-  <a data-disqus-identifier="/2012/10/ignorance-and-power-critical-studies-in-education-503/" href="../../2012/10/ignorance-and-power-critical-studies-in-education-503/#disqus_thread">comments</a>
-</p>
-            </div>
-        </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">
-                <h2 class="post-title"><a href="../../2012/10/ignorance-mobilization-joanne-gaudet/" rel="bookmark" title="Permalink to Ignorance Mobilization – Joanne Gaudet">Ignorance Mobilization – Joanne&nbsp;Gaudet</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="../../author/jonathan-mair/">Jonathan Mair</a>
-                     | <time datetime="Wed, 31 Oct 2012">Wed, 31 Oct 2012</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        I’ve just come across the work of Joanne Gaudet, a PhD candidate at the University of Ottawa who has been working on issues of ignorance and the productivity of ignorance from a sociological — and especially sociology of science — point of view....
-                    </p>
-                </section>
-<p>
-  <a data-disqus-identifier="/2012/10/ignorance-mobilization-joanne-gaudet/" href="../../2012/10/ignorance-mobilization-joanne-gaudet/#disqus_thread">comments</a>
-</p>
-            </div>
-        </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">
-                <h2 class="post-title"><a href="../../2012/07/paul-stoller-social-engineering-and-the-politics-of-ignorance/" rel="bookmark" title="Permalink to Paul Stoller: Social Engineering and the Politics of Ignorance">Paul Stoller: Social Engineering and the Politics of&nbsp;Ignorance</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="../../author/jonathan-mair/">Jonathan Mair</a>
-                     | <time datetime="Thu, 05 Jul 2012">Thu, 05 Jul 2012</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        Paul Stoller has a post on the Huffington Post on education, ignorance and politics. Some of what he has to say relates to policies that aim to constrain the acquisition of knowledge. Here’s one example I find particularly astounding, not because...
-                    </p>
-                </section>
-<p>
-  <a data-disqus-identifier="/2012/07/paul-stoller-social-engineering-and-the-politics-of-ignorance/" href="../../2012/07/paul-stoller-social-engineering-and-the-politics-of-ignorance/#disqus_thread">comments</a>
-</p>
-            </div>
-        </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">
-                <h2 class="post-title"><a href="../../2012/05/cultures-of-ignorance-cfp-17th-world-congress-of-the-iuaes-manchester-2013/" rel="bookmark" title="Permalink to Cultures of Ignorance: CFP, 17th World Congress of the IUAES, Manchester 2013">Cultures of Ignorance: <span class="caps">CFP</span>, 17th World Congress of the <span class="caps">IUAES</span>, Manchester&nbsp;2013</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="../../author/jonathan-mair/">Jonathan Mair</a>
-                     | <time datetime="Thu, 31 May 2012">Thu, 31 May 2012</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        Jenny Diggins (Sussex) and I have just issued the following call for papers for a panel on the anthropology of ignorance, to be held at the IUAES Congress in Manchester next summer. Feel free to get in touch if you’re considering submitting a...
-                    </p>
-                </section>
-<p>
-  <a data-disqus-identifier="/2012/05/cultures-of-ignorance-cfp-17th-world-congress-of-the-iuaes-manchester-2013/" href="../../2012/05/cultures-of-ignorance-cfp-17th-world-congress-of-the-iuaes-manchester-2013/#disqus_thread">comments</a>
-</p>
-            </div>
-        </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">
-                <h2 class="post-title"><a href="../../2012/05/highly-recommended-laszlo-montgomerys-the-china-history-podcast/" rel="bookmark" title="Permalink to Highly Recommended: Laszlo Montgomery’s The China History Podcast">Highly Recommended: Laszlo Montgomery’s The China History&nbsp;Podcast</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="../../author/jonathan-mair/">Jonathan Mair</a>
-                     | <time datetime="Thu, 10 May 2012">Thu, 10 May 2012</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        The China History Podcast comes all the way from sunny Claremont, California, courtesy of Laszlo Montgomery, and is highly recommended. I’ve been listening to it on and off since last summer and have learnt a lot from it. It’s a great...
-                    </p>
-                </section>
-<p>
-  <a data-disqus-identifier="/2012/05/highly-recommended-laszlo-montgomerys-the-china-history-podcast/" href="../../2012/05/highly-recommended-laszlo-montgomerys-the-china-history-podcast/#disqus_thread">comments</a>
-</p>
-            </div>
-        </article>
 
-<nav class="pagination" role="pagination">
+
+    <article class="post">
+        <div class="inner">
+            <div class="box post-box">
+                <h2 class="post-title"><a href="http://localhost:8000/2012/12/cross-cultural-conversations-at-cross-purposes/" rel="bookmark" title="Permalink to Cross-cultural conversations at cross-purposes">Cross-cultural conversations at&nbsp;cross-purposes</a>
+                </h2>
+                <span class="post-meta">
+                    By 
+                        <a class="post-meta-tag" href="http://localhost:8000/author/jonathan-mair/">Jonathan Mair</a>
+                     in 
+                    <a class="post-meta-tag" href="http://localhost:8000/category/anthropology/">Anthropology</a>
+                      on <time datetime="Wed, 05 Dec 2012">Wed, 05 Dec 2012</time>
+                </span>
+                <p class="post-excerpt">
+                        Part of my argument in the recent neoliberalism debate was that, evidence of discontent about any aspect, be it ever so narrow, of what have been identified as neoliberal transformations is taken, without further justification, as a rejection of...
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="http://localhost:8000/tag/buddhism/">Buddhism</a><a href="http://localhost:8000/tag/china/">China</a><a href="http://localhost:8000/tag/christianity/">Christianity</a>                    </aside>
+                </div>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="post">
+        <div class="inner">
+            <div class="box post-box">
+                <h2 class="post-title"><a href="http://localhost:8000/2012/12/gdat-neoliberalism-anthropology/" rel="bookmark" title="Permalink to GDAT 2012: Debating “neoliberalism”"><span class="caps">GDAT</span> 2012: Debating&nbsp;“neoliberalism”</a>
+                </h2>
+                <span class="post-meta">
+                    By 
+                        <a class="post-meta-tag" href="http://localhost:8000/author/jonathan-mair/">Jonathan Mair</a>
+                     in 
+                    <a class="post-meta-tag" href="http://localhost:8000/category/anthropology/">Anthropology</a>
+                      on <time datetime="Wed, 05 Dec 2012">Wed, 05 Dec 2012</time>
+                </span>
+                <p class="post-excerpt">
+                        On Saturday I had the pleasure of taking part in GDAT, an annual debate on anthropological theory hosted by Manchester University. GDAT, the Group for Debates in Anthropological Theory, was started in the late 80s by Tim Ingold, and has been...
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="http://localhost:8000/tag/anthropology/">anthropology</a><a href="http://localhost:8000/tag/debate/">debate</a><a href="http://localhost:8000/tag/gdat/">gdat</a>                    </aside>
+                </div>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="post">
+        <div class="inner">
+            <div class="box post-box">
+                <h2 class="post-title"><a href="http://localhost:8000/2012/11/evolution-and-religion-part-iii/" rel="bookmark" title="Permalink to Evolution and Religion Part III">Evolution and Religion Part <span class="caps">III</span></a>
+                </h2>
+                <span class="post-meta">
+                    By 
+                        <a class="post-meta-tag" href="http://localhost:8000/author/jonathan-mair/">Jonathan Mair</a>
+                     in 
+                    <a class="post-meta-tag" href="http://localhost:8000/category/anthropology/">Anthropology</a>
+                      on <time datetime="Sun, 18 Nov 2012">Sun, 18 Nov 2012</time>
+                </span>
+                <p class="post-excerpt">
+                        Dear Michael, Thanks again for taking the time to engage with me earlier. Sorry that this is a bit of a long reply… In your comment you note: the fundamental questions remains: Why are only “religious” communities able to augment this in-group...
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="http://localhost:8000/tag/bruno-latour/">Bruno Latour</a><a href="http://localhost:8000/tag/charles-taylor/">Charles Taylor</a><a href="http://localhost:8000/tag/china/">China</a>                    </aside>
+                </div>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="post">
+        <div class="inner">
+            <div class="box post-box">
+                <h2 class="post-title"><a href="http://localhost:8000/2012/11/evolution-and-religion-part-ii/" rel="bookmark" title="Permalink to Evolution and Religion Part II">Evolution and Religion Part <span class="caps">II</span></a>
+                </h2>
+                <span class="post-meta">
+                    By 
+                        <a class="post-meta-tag" href="http://localhost:8000/author/jonathan-mair/">Jonathan Mair</a>
+                     in 
+                    <a class="post-meta-tag" href="http://localhost:8000/category/anthropology/">Anthropology</a>
+                      on <time datetime="Sun, 18 Nov 2012">Sun, 18 Nov 2012</time>
+                </span>
+                <p class="post-excerpt">
+                        William Robertson Smith (source: Wikipedia) This is a reply to Martin Michael Blume’s comment to my previous post, which was itself was a comment on his blog on www.scilogs.com. Martin Michael — Thanks for the links (reproduced below) and for...
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="http://localhost:8000/tag/belief/">belief</a><a href="http://localhost:8000/tag/evolution/">evolution</a><a href="http://localhost:8000/tag/michael-blume/">Michael Blume</a>                    </aside>
+                </div>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="post">
+        <div class="inner">
+            <div class="box post-box">
+                <h2 class="post-title"><a href="http://localhost:8000/2012/11/evolution-and-religion/" rel="bookmark" title="Permalink to Evolution and Religion">Evolution and&nbsp;Religion</a>
+                </h2>
+                <span class="post-meta">
+                    By 
+                        <a class="post-meta-tag" href="http://localhost:8000/author/jonathan-mair/">Jonathan Mair</a>
+                     in 
+                    <a class="post-meta-tag" href="http://localhost:8000/category/anthropology/">Anthropology</a>
+                      on <time datetime="Fri, 16 Nov 2012">Fri, 16 Nov 2012</time>
+                </span>
+                <p class="post-excerpt">
+                        The explanatory power of evolutionary theory is clear. However, these days, people seem to rush to evolutionary explanations for all sorts of real and perceived human behaviours. The danger of doing this is that in going straight to the question...
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="http://localhost:8000/tag/abby-day/">Abby Day</a><a href="http://localhost:8000/tag/belief/">belief</a><a href="http://localhost:8000/tag/evolution/">evolution</a>                    </aside>
+                </div>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="post">
+        <div class="inner">
+            <div class="box post-box">
+                <h2 class="post-title"><a href="http://localhost:8000/2012/10/ignorance-and-power-critical-studies-in-education-503/" rel="bookmark" title="Permalink to Ignorance and Power, Critical Studies in Education 50(3)">Ignorance and Power, Critical Studies in Education&nbsp;50(3)</a>
+                </h2>
+                <span class="post-meta">
+                    By 
+                        <a class="post-meta-tag" href="http://localhost:8000/author/jonathan-mair/">Jonathan Mair</a>
+                     in 
+                    <a class="post-meta-tag" href="http://localhost:8000/category/anthropology/">Anthropology</a>
+                      on <time datetime="Wed, 31 Oct 2012">Wed, 31 Oct 2012</time>
+                </span>
+                <p class="post-excerpt">
+                        Here’a another exercise in the anthropology of ignorance, this time focused on ignorance in education — a special issue of Critical Studies in Education from 2009. The introduction, by Neriko Musha Doerr explains: While resonating with Bourdieu’s...
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="http://localhost:8000/tag/ignorance/">ignorance</a>                    </aside>
+                </div>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="post">
+        <div class="inner">
+            <div class="box post-box">
+                <h2 class="post-title"><a href="http://localhost:8000/2012/10/ignorance-mobilization-joanne-gaudet/" rel="bookmark" title="Permalink to Ignorance Mobilization – Joanne Gaudet">Ignorance Mobilization – Joanne&nbsp;Gaudet</a>
+                </h2>
+                <span class="post-meta">
+                    By 
+                        <a class="post-meta-tag" href="http://localhost:8000/author/jonathan-mair/">Jonathan Mair</a>
+                     in 
+                    <a class="post-meta-tag" href="http://localhost:8000/category/anthropology/">Anthropology</a>
+                      on <time datetime="Wed, 31 Oct 2012">Wed, 31 Oct 2012</time>
+                </span>
+                <p class="post-excerpt">
+                        I’ve just come across the work of Joanne Gaudet, a PhD candidate at the University of Ottawa who has been working on issues of ignorance and the productivity of ignorance from a sociological — and especially sociology of science — point of view....
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="http://localhost:8000/tag/ignorance/">ignorance</a>                    </aside>
+                </div>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="post">
+        <div class="inner">
+            <div class="box post-box">
+                <h2 class="post-title"><a href="http://localhost:8000/2012/07/paul-stoller-social-engineering-and-the-politics-of-ignorance/" rel="bookmark" title="Permalink to Paul Stoller: Social Engineering and the Politics of Ignorance">Paul Stoller: Social Engineering and the Politics of&nbsp;Ignorance</a>
+                </h2>
+                <span class="post-meta">
+                    By 
+                        <a class="post-meta-tag" href="http://localhost:8000/author/jonathan-mair/">Jonathan Mair</a>
+                     in 
+                    <a class="post-meta-tag" href="http://localhost:8000/category/ignorance/">Ignorance</a>
+                      on <time datetime="Thu, 05 Jul 2012">Thu, 05 Jul 2012</time>
+                </span>
+                <p class="post-excerpt">
+                        Paul Stoller has a post on the Huffington Post on education, ignorance and politics. Some of what he has to say relates to policies that aim to constrain the acquisition of knowledge. Here’s one example I find particularly astounding, not because...
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="http://localhost:8000/tag/ignorance/">ignorance</a><a href="http://localhost:8000/tag/metacognition/">metacognition</a><a href="http://localhost:8000/tag/paul-stoller/">paul stoller</a>                    </aside>
+                </div>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="post">
+        <div class="inner">
+            <div class="box post-box">
+                <h2 class="post-title"><a href="http://localhost:8000/2012/05/cultures-of-ignorance-cfp-17th-world-congress-of-the-iuaes-manchester-2013/" rel="bookmark" title="Permalink to Cultures of Ignorance: CFP, 17th World Congress of the IUAES, Manchester 2013">Cultures of Ignorance: <span class="caps">CFP</span>, 17th World Congress of the <span class="caps">IUAES</span>, Manchester&nbsp;2013</a>
+                </h2>
+                <span class="post-meta">
+                    By 
+                        <a class="post-meta-tag" href="http://localhost:8000/author/jonathan-mair/">Jonathan Mair</a>
+                     in 
+                    <a class="post-meta-tag" href="http://localhost:8000/category/anthropology/">Anthropology</a>
+                      on <time datetime="Thu, 31 May 2012">Thu, 31 May 2012</time>
+                </span>
+                <p class="post-excerpt">
+                        Jenny Diggins (Sussex) and I have just issued the following call for papers for a panel on the anthropology of ignorance, to be held at the IUAES Congress in Manchester next summer. Feel free to get in touch if you’re considering submitting a...
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="http://localhost:8000/tag/anthropology/">anthropology</a><a href="http://localhost:8000/tag/call-for-papers/">call for papers</a><a href="http://localhost:8000/tag/ignorance/">ignorance</a>                    </aside>
+                </div>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="post">
+        <div class="inner">
+            <div class="box post-box">
+                <h2 class="post-title"><a href="http://localhost:8000/2012/05/highly-recommended-laszlo-montgomerys-the-china-history-podcast/" rel="bookmark" title="Permalink to Highly Recommended: Laszlo Montgomery’s The China History Podcast">Highly Recommended: Laszlo Montgomery’s The China History&nbsp;Podcast</a>
+                </h2>
+                <span class="post-meta">
+                    By 
+                        <a class="post-meta-tag" href="http://localhost:8000/author/jonathan-mair/">Jonathan Mair</a>
+                     in 
+                    <a class="post-meta-tag" href="http://localhost:8000/category/china/">China</a>
+                      on <time datetime="Thu, 10 May 2012">Thu, 10 May 2012</time>
+                </span>
+                <p class="post-excerpt">
+                        The China History Podcast comes all the way from sunny Claremont, California, courtesy of Laszlo Montgomery, and is highly recommended. I’ve been listening to it on and off since last summer and have learnt a lot from it. It’s a great...
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="http://localhost:8000/tag/china/">China</a><a href="http://localhost:8000/tag/history/">history</a><a href="http://localhost:8000/tag/podcast/">podcast</a>                    </aside>
+                </div>
+            </div>
+        </div>
+    </article>
+
+<nav class="pagination" aria-label="Pagination" role="pagination">
   <div class="inner">
-    <a class="pagination-next" href="../../page/2/"><i class="ic ic-arrow-left"></i> <span class="pagination-label">Newer Posts</span></a>
-    <span class="pagination-info">Page 3 / 4</span>
-    <a class="pagination-prev" href="../../page/4/"><span class="pagination-label">Older Posts</span> <i class="ic ic-arrow-right"></i></a>
-    <div class="clear"></div>
+    <div class="box pagination-box">
+      <a title="Newer Posts" class="pagination-next" href="http://localhost:8000/page/2/"><i class="icon icon-arrow-left"></i> <span class="pagination-label">Newer Posts</span></a>
+      <span class="pagination-info">Page 3 of 4</span>
+      <a title="Older Posts" class="pagination-prev" href="http://localhost:8000/page/4/"><span class="pagination-label">Older Posts</span> <i class="icon icon-arrow-right"></i></a>
+    </div>
   </div>
 </nav>
   </main>
 </div>
-      <!-- TODO : Body class -->
-    <div id="body-class" style="display: none;" class=""></div>
+    <div class="nav-footer">
+      <nav class="nav-wrapper" aria-label="Footer">
+        <span class="nav-copy">Jonathan Mair &copy; 2023
+        </span>
+        <span class="nav-credits">
 
-    <footer id="footer">
-      <div class="inner">
-        <section class="credits">
-        </section>
-      </div>
-    </footer>
+          <a class="menu-item js-theme" href="#" data-system="System theme" data-dark="Dark theme" data-light="Light theme">
+            <span class="theme-icon"></span><span class="theme-text">System theme</span>
+          </a>
+        </span>
+      </nav>
+    </div>
+
   </section>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
-  <script type="text/javascript" src="../../theme/js/script.js"></script>
+  <script type="text/javascript" src="http://localhost:8000/theme/js/jquery.fitvids.js"></script>
+  <script type="text/javascript" src="http://localhost:8000/theme/js/script.js"></script>
 
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-81JH3X4RG8"></script>
@@ -379,5 +477,8 @@
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
 </script>
+
+  <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
 </body>
+
 </html>
