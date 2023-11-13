@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/</loc>
-<lastmod>2023-11-08T08:20:46-00:00</lastmod>
+<lastmod>2023-11-13T07:58:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/</loc>
-<lastmod>2023-11-08T08:20:46-00:00</lastmod>
+<lastmod>2023-11-13T07:58:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/category/</loc>
-<lastmod>2023-11-08T08:20:46-00:00</lastmod>
+<lastmod>2023-11-13T07:58:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/archive/</loc>
-<lastmod>2023-11-08T08:20:46-00:00</lastmod>
+<lastmod>2023-11-13T07:58:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -215,7 +215,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/2012/11/evolution-and-religion-part-ii/</loc>
-<lastmod>2023-06-14T08:32:30+02:00</lastmod>
+<lastmod>2023-11-13T07:55:13+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -271,14 +271,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/2012/04/the-anthropology-of-ignorance/</loc>
-<lastmod>2023-06-14T08:32:30+02:00</lastmod>
+<lastmod>2023-11-13T07:38:33+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/category/anthropology/</loc>
-<lastmod>2023-06-15T16:26:59-00:15</lastmod>
+<lastmod>2023-11-13T07:55:13-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -348,7 +348,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/ignorance/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -362,7 +362,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/belief/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:55:13-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -411,7 +411,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/anthropology/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -439,7 +439,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/religion/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:55:13-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -880,7 +880,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/evolution/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:55:13-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -894,7 +894,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/michael-blume/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:55:13-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -915,21 +915,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/talal-asad/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:55:13-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/social-science/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:55:13-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/william-robertson-smith/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:55:13-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1020,126 +1020,126 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/almsgiving/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/amazon/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/ann-kelly/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/argentina/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/biography/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/book/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/casey-high/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/fertility/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/greenland/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/housing/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/japan/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/networking/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/nrt/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/senegal/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/shamanism/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/suicide/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/the-gift/</loc>
-<lastmod>2023-06-14T08:32:30-00:15</lastmod>
+<lastmod>2023-11-13T07:38:33-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/author/jonathan-mair/</loc>
-<lastmod>2023-06-15T16:26:59-00:15</lastmod>
+<lastmod>2023-11-13T07:55:13-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

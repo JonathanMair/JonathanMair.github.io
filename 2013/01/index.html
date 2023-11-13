@@ -16,18 +16,22 @@
   <meta name="generator" content="Pelican" />
 <link href="https://www.jonathanmair.com/2013/1" rel="canonical" />
   <!-- Feed -->
-        <link href="https://www.jonathanmair.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Jonathan Mair Full Atom Feed" />
+  <link href="https://www.jonathanmair.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+    title="Jonathan Mair Full Atom Feed" />
 
   <link href="https://www.jonathanmair.com/theme/css/style.css" type="text/css" rel="stylesheet" />
 
-    <!-- CSS specified by the user -->
+  <!-- CSS specified by the user -->
 
 
-    <link href="https://www.jonathanmair.com/assets/css/jonathan-mair-anthropology.css" type="text/css" rel="stylesheet" />
+  <link href="https://www.jonathanmair.com/assets/css/jonathan-mair-anthropology.css" type="text/css" rel="stylesheet" />
 
-    <!-- Custom fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+
+  <link href="https://www.jonathanmair.com/assets/css/myblog.css" type="text/css" rel="stylesheet" />
+
+  <!-- Custom fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -36,74 +40,114 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
 
+  <script>
+    var siteUrl = 'https://www.jonathanmair.com';
+  </script>
+
+  <script>
+    var localTheme = localStorage.getItem('attila_theme');
+    switch (localTheme) {
+      case 'dark':
+        document.documentElement.classList.add('theme-dark');
+        break;
+      case 'light':
+        document.documentElement.classList.add('theme-light');
+        break;
+      default:
+        break;
+    }
+  </script>
+
+
+
+
+
 </head>
-<!-- TODO : Body class -->
+
+
+
+
+
+
+
 <body class="home-template">
 
-<nav id="menu">
-  <a class="close-button">Close</a>
-  <div class="nav-wrapper">
-    <p class="nav-label">Menu</p>
-    <ul>
-          <li><a href="/" role="presentation">Home</a></li>
-          <li><a href="/about/" role="presentation">About</a></li>
-          <li><a href="/anthropology/" role="presentation">Anthropology</a></li>
-          <li><a href="/archive/" role="presentation">Archives</a></li>
-          <li><a href="/tag/" role="presentation">Tags</a></li>
-          <li><a href="/publications/" role="presentation">Publications</a></li>
-          <li><a href="credits" role="presentation">Credits</a></li>
+<div class="nav-header">
+  <nav class="nav-wrapper" aria-label="Main">
+<ul>
 
-      <!--
-              <li role="presentation"><a href="https://www.jonathanmair.com/about/">About</a></li>
-              <li role="presentation"><a href="https://www.jonathanmair.com/credits/">Credits</a></li>
-              <li role="presentation"><a href="https://www.jonathanmair.com/publications/">Publications</a></li>
-      -->
+    <li class="nav-Home " role="presentation"><a href="/"><span>Home</span></a></li>
+    <li class="nav-About " role="presentation"><a href="/about/"><span>About</span></a></li>
+    <li class="nav-Anthropology " role="presentation"><a href="/category/anthropology/"><span>Anthropology</span></a></li>
+    <li class="nav-Archives " role="presentation"><a href="/archive/"><span>Archives</span></a></li>
+    <li class="nav-Tags " role="presentation"><a href="/tag/"><span>Tags</span></a></li>
+    <li class="nav-Publications " role="presentation"><a href="/publications/"><span>Publications</span></a></li>
+    <li class="nav-Credits " role="presentation"><a href="/credits"><span>Credits</span></a></li>
 
-    </ul>
+</ul>
+<ul class="nav-meta">
+    <li class="nav-twitter"><a aria-label="Twitter" href="http://twitter.com/urtnas" target="_blank"><i class="icon icon-twitter" aria-hidden="true"></i>
+    <span>Twitter</span>
+    </a></li>
+    <li class="nav-github"><a aria-label="Github" href="https://github.com/JonathanMair" target="_blank"><i class="icon icon-github" aria-hidden="true"></i>
+    <span>Github</span>
+    </a></li>
+  <li class="nav-search" style="display: none;">
+    <a title="Search">
+      <i class="icon icon-search" aria-hidden="true"></i>
+      <span>Search</span>
+    </a>
+  </li>
+</ul>  </nav>
+
+  <div class="nav-wrapper-control">
+    <div class="inner">
+      <a class="nav-menu" role="button"><i class="icon icon-menu" aria-hidden="true"></i>Menu</a>
+      <a class="nav-search" title="Search" role="button" style="display: none;"><i class="icon icon-search" aria-hidden="true"></i></a>
+    </div>
   </div>
-</nav>
+</div>
+<div class="nav-close" role="button" aria-label="Close"></div>
+  <section id="wrapper" class="page-wrapper">
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header id="blog-header" class="has-cover">
+    <header class="blog-header  has-cover ">
       <div class="inner">
-        <nav id="navigation">
-            <span id="home-button" class="nav-button">
-                <a class="home-button" href="https://www.jonathanmair.com/" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
-            </span>
-          <span id="menu-button" class="nav-button">
-            <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
-          </span>
-        </nav>
         <h1 class="post-title">Archives for January 2013</h1>
-          <div class="blog-cover cover" style="background-image: url('https://www.jonathanmair.com/assets/images/banner-jonathan-mair.jpg')">
-      </div>
+          <div class="post-cover cover">
+            <img src="https://www.jonathanmair.com/assets/images/banner-jonathan-mair.jpg" alt="Archives for January 2013" />
+          </div>
     </header>
-
-  <section id="wrapper">
-    <a class="hidden-close"></a>
   <article class="post">
     <div class="inner">
-      <dl>
+      <section class="post-content">
+        <dl>
           <dt>Thu, 31 Jan 2013</dt>
           <dd><a href="https://www.jonathanmair.com/2013/01/stuart-hall-on-rootless-cosmopolitanism/">Stuart Hall on rootless&nbsp;cosmopolitanism</a></dd>
           <dt>Thu, 31 Jan 2013</dt>
           <dd><a href="https://www.jonathanmair.com/2013/01/rooted-cosmopolitanism/">Rooted&nbsp;Cosmopolitanism</a></dd>
-      </dl>
+        </dl>
+      </section>
     </div>
   </article>
-      <!-- TODO : Body class -->
-    <div id="body-class" style="display: none;" class=""></div>
+    <div class="nav-footer">
+      <nav class="nav-wrapper" aria-label="Footer">
+        <span class="nav-copy">Jonathan Mair &copy; 2023
+        </span>
+        <span class="nav-credits">
 
-    <footer id="footer">
-      <div class="inner">
-        <section class="credits">
-        </section>
-      </div>
-    </footer>
+          <a class="menu-item js-theme" href="#" data-system="System theme" data-dark="Dark theme" data-light="Light theme">
+            <span class="theme-icon"></span><span class="theme-text">System theme</span>
+          </a>
+        </span>
+      </nav>
+    </div>
+
   </section>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+  <script type="text/javascript" src="https://www.jonathanmair.com/theme/js/jquery.fitvids.js"></script>
   <script type="text/javascript" src="https://www.jonathanmair.com/theme/js/script.js"></script>
 
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
@@ -123,5 +167,8 @@
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
 </script>
+
+  <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
 </body>
+
 </html>
