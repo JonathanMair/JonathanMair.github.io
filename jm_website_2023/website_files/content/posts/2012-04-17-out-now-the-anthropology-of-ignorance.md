@@ -5,7 +5,7 @@ category: anthropology
 tags: almsgiving, amazon, 'ann kelly', anthropology, argentina, biography, book, 'casey high', fertility, greenland, housing, ignorance, japan, networking, NRT, senegal, shamanism, suicide, 'the gift'
 ...
 
-![High, C., A. Kelly & J. Mair (2012). The Anthropology of Ignorance: An Ethnographic Approach](assets/images/ignorance.jpg)
+![High, C., A. Kelly & J. Mair (2012). The Anthropology of Ignorance: An Ethnographic Approach]({static}/assets/images/ignorance.jpg)
 
 *High, C., Kelly, A., Mair, J. (eds.) 2012. The Anthropology of Ignorance: An Ethnographic Approach. New York &amp; Basingstoke: Palgrave Macmillan.*
 

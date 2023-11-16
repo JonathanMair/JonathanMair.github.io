@@ -6,9 +6,7 @@ tags: anthropology, call for papers, ignorance, iuaes, jenny diggins, manchester
 ...
 
 
-[![17th World Congress of the IUAES](https://i0.wp.com/www.iuaes2013.org/images/IUAES%202013%20logo.jpg)](http://www.nomadit.co.uk/iuaes/iuaes2013/panels.php5?PanelID=1625)
-
-<span style="color: #333333; font-style: normal; line-height: 26px;">Jenny Diggins (Sussex) and I have just issued the following call for papers for a panel on the anthropology of ignorance, to be held at the IUAES Congress in Manchester next summer. Feel free to get in touch if you’re considering submitting a proposal but want to discuss it first. </span>
+Jenny Diggins (Sussex) and I have just issued the following call for papers for a panel on the anthropology of ignorance, to be held at the IUAES Congress in Manchester next summer. Feel free to get in touch if you’re considering submitting a proposal but want to discuss it first.
 
 > Call for Papers at the IUAES Congress, at the University of Manchester, 5th-10th August 2013
 >
@@ -30,4 +28,5 @@ tags: anthropology, call for papers, ignorance, iuaes, jenny diggins, manchester
 >
 > For more information, or to propose a paper, please follow this link:
 >
-> <http://www.nomadit.co.uk/iuaes/iuaes2013/panels.php5?PanelID=1625>
+> [http://www.nomadit.co.uk/iuaes/iuaes2013/panels.php5?PanelID=1625](http://www.nomadit.co.uk/iuaes/iuaes2013/panels.php5?PanelID=1625)
+
