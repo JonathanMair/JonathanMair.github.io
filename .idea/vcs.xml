@@ -2,57 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/ace_editor" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/ace_editor/static/ace-build" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/backreftranslate" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/better_code_samples" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/bootstrapify" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/category_order" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/cjk-auto-spacing" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/deadlinks" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/encrypt-content" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/figure-ref" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/ga_page_view" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/image_process" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/just_table" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/lightbox" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/loadcsv" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/md-metayaml" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/md-metayaml/markdown_metayaml" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/multi_neighbors" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/multimarkdown_reader" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/org_pandoc_reader" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pandoc_reader" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/panorama" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pdf-img" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-cite" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-ert" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-flickr" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-genealogy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-gist" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-githubprojects" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-ipynb" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-jinja2content" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-langcategory" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-linkclass" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-mboxreader" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-open_graph" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-page-hierarchy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-page-order" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-toc" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican-version" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican_javascript" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican_meetup_info" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican_vimeo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelican_youtube" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelicanfly" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pelicanthemes-generator" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/pin_to_top" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/post_revision" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/replacer" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jm_website_2023/website_files/pelican-plugins/similar_posts" vcs="Git" />
   </component>
 </project>
