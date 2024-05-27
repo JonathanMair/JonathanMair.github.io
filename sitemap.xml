@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/</loc>
-<lastmod>2024-05-22T22:18:27-00:00</lastmod>
+<lastmod>2024-05-27T21:02:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tags.html</loc>
-<lastmod>2024-05-22T22:18:27-00:00</lastmod>
+<lastmod>2024-05-27T21:02:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/categories/index.html</loc>
-<lastmod>2024-05-22T22:18:27-00:00</lastmod>
+<lastmod>2024-05-27T21:02:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/archive.html</loc>
-<lastmod>2024-05-22T22:18:27-00:00</lastmod>
+<lastmod>2024-05-27T21:02:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -124,7 +124,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/abby-days-believing-in-belonging-review.html</loc>
-<lastmod>2024-05-02T02:27:48+02:00</lastmod>
+<lastmod>2024-05-24T11:07:08+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -138,7 +138,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/cultures-of-belief-new-paper-out-in-anthropological-theory.html</loc>
-<lastmod>2024-05-02T02:27:48+02:00</lastmod>
+<lastmod>2024-05-24T11:08:24+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -208,7 +208,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/gdat-neoliberalism-anthropology.html</loc>
-<lastmod>2024-05-02T02:27:48+02:00</lastmod>
+<lastmod>2024-05-25T00:00:00+02:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -285,7 +285,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/category/anthropology/index.html</loc>
-<lastmod>2024-05-02T07:22:46-00:15</lastmod>
+<lastmod>2024-05-25T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -411,7 +411,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/belief/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-24T11:08:24-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -432,7 +432,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/buddhism/index.html</loc>
-<lastmod>2024-05-02T03:52:56-00:15</lastmod>
+<lastmod>2024-05-24T11:08:24-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -460,7 +460,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/anthropology/index.html</loc>
-<lastmod>2024-05-02T03:54:37-00:15</lastmod>
+<lastmod>2024-05-25T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -488,7 +488,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/religion/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-24T11:08:24-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -544,21 +544,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/debate/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-25T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/gdat/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-25T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/neoliberalism/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-25T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -628,42 +628,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/abby-day/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-24T11:07:08-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/census/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-24T11:07:08-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/christianity/index.html</loc>
-<lastmod>2024-05-02T03:52:56-00:15</lastmod>
+<lastmod>2024-05-24T11:08:24-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/fate/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-24T11:07:08-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/ghosts/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-24T11:07:08-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/uk/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-24T11:07:08-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -691,7 +691,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/judaism/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-24T11:08:24-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -887,28 +887,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.jonathanmair.com/tag/james-laidlaw/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-25T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/keir-martin/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-25T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/manchester/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-25T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.jonathanmair.com/tag/thomas-hylland-eriksen/index.html</loc>
-<lastmod>2024-05-02T02:27:48-00:15</lastmod>
+<lastmod>2024-05-25T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
